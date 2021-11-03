@@ -1,0 +1,23 @@
+public class book
+{
+  String title,author;
+  Double price;
+  public book(){
+  }
+  public book(String title, String author, double price){
+    title=title;
+    author=author;
+    price=price;
+  }
+  public void setTitle(String title){
+    return title;
+  }
+  public void setAuthor(String author){
+    return author;
+  }
+  public void setPrice(double price){
+    return price;
+  }
+}
+
+    

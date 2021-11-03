@@ -1,0 +1,6 @@
+public class CSEStudent extends Student
+{
+  public CSEStudent(){
+    this.msg="I want to transfer to CSE";
+  }
+}

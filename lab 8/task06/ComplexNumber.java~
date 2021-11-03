@@ -1,0 +1,10 @@
+public class ComplexNumber extends RealNumber
+{
+  double imaginaryvalue=1.0;
+  public ComplexNumber(){
+    setRealValue(1.0);
+  }
+  public String toString(){
+    return("RealPart:" realValue + "\n" + "ImaginaryPart:" + imaginaryvalue);
+  }
+  

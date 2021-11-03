@@ -1,0 +1,22 @@
+import java.util.Scanner;
+public class task14
+{
+  public static void main(String [] args)
+  {
+   Scanner sc=new Scanner(System.in);
+    System.out.println("Enter a num");
+   int line=sc.nextInt();
+    System.out.println("Enter a num");
+   int n=sc.nextInt();
+   for(int i=1;i<=line;i++){
+    for(int c=1;c<=n;c++){
+      if(i>=2&&c>=2&&i<=line-1&&c<=n-1){
+        System.out.print(" ");
+      }else{
+             System.out.print(c);
+   }
+    }
+   System.out.println();
+   }
+  }
+}

@@ -1,0 +1,16 @@
+public class author
+{
+  String first name,last name;
+  public author(){
+  }
+  public author(String first name,String last name){
+    this.firstname=firstname;
+    this.lastname=lastname;
+  }
+   public String getFirstName (String firstName){
+    return firstname;
+  }
+   public String getLastName (String lastName){
+     return lastname;
+   }
+}

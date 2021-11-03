@@ -1,0 +1,12 @@
+public class Sphere extends Point{
+  public int area;
+  
+  public int sphCalArea(){
+    x = getRadious();
+    area = 4*3.1416*(x*x);
+    return area;
+  }
+  public double space(){
+    System.out.println("The area of the Sphere :"+sphCalArea());
+  }
+}

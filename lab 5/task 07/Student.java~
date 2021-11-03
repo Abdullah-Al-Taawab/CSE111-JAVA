@@ -1,0 +1,16 @@
+public class Student
+{
+  String name;
+  Static int numberofStudent;
+  public Student(){
+    name="default";
+    numberofStudent++;
+  }
+  public Student(String n){
+    name=n;
+      numberofStudent++;
+  }
+  public String getName(){
+    return name;
+  }
+}

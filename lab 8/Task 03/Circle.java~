@@ -1,0 +1,12 @@
+public class Circle extends Point{
+  public int area;
+  
+  public int cirCalArea(){
+    x = getRadious();
+    area = 3.1416*(x*x);
+    return area;
+  }
+  public double space(){
+    System.out.println("The area of the circle :"+cirCalArea());
+  }
+}

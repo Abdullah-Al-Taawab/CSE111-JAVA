@@ -1,0 +1,41 @@
+public class main
+{
+  public static void main(String [] args)
+  {
+    Bankaccount acc1=new Bankaccount("kalam","1212","khilgaon",120101.0);
+      Bankaccount acc2=new Bankaccount("ron","1213","malibag",120101.0);
+        Bankaccount acc3=new Bankaccount("shofiq","1214","bailey",120103.0);
+  
+    System.out.println(acc1.getName());
+    
+    System.out.println(acc1.getAccountID());
+      
+    System.out.println(acc1.getAddress());
+     
+    System.out.println(acc1.getBalance());
+ 
+    System.out.println(acc2.getName());
+    
+      System.out.println(acc2.getAccountID());
+   
+    System.out.println(acc2.getAddress());
+      
+    System.out.println(acc2.getBalance());
+    
+    System.out.println(acc3.getName());
+     
+    System.out.println(acc1.getAccountID());
+    
+    System.out.println(acc3.getAddress());
+    
+    System.out.println(acc3.getBalance());
+    acc1.addInterest();
+     acc3.addInterest();
+    
+    System.out.println(acc1.getBalance());
+    
+    System.out.println(acc3.getBalance());
+   
+ 
+  }
+}

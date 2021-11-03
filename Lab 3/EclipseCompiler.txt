@@ -1,0 +1,607 @@
+19 Jan 2019 19:13:13 GMT: Log 'EclipseCompiler.txt' opened: 19 Jan 2019 19:13:13 GMT with name C:\Users\USER\Desktop\lab 3\EclipseCompiler.txt
+22 Jan 2019 16:39:10 GMT: Log 'EclipseCompiler.txt' opened: 22 Jan 2019 16:39:10 GMT with name C:\Users\USER\Desktop\lab 3\EclipseCompiler.txt
+22 Jan 2019 17:18:28 GMT: diagnostics = javax.tools.DiagnosticCollector@e33e43
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5bfdce
+fileObjects = [C:\Users\USER\Desktop\lab 3\task1.java, C:\Users\USER\Desktop\lab 3\task02.java, C:\Users\USER\Desktop\lab 3\task03.java, C:\Users\USER\Desktop\LOL CDE\task02.java]
+22 Jan 2019 17:18:28 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@e6d763' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\lab 3;C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+22 Jan 2019 17:18:29 GMT: Compiler call returned
+22 Jan 2019 17:18:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7dbcad
+22 Jan 2019 17:18:29 GMT:  Kind = ERROR
+22 Jan 2019 17:18:29 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task02.java LineNo = 2 ColNo = 14 Msg = 'The type task02 is already defined'
+22 Jan 2019 17:18:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6a4326
+22 Jan 2019 17:18:29 GMT:  Kind = WARNING
+22 Jan 2019 17:18:29 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:18:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1231c12
+22 Jan 2019 17:18:29 GMT:  Kind = WARNING
+22 Jan 2019 17:18:29 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:18:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@cf5361
+22 Jan 2019 17:18:29 GMT:  Kind = WARNING
+22 Jan 2019 17:18:29 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:18:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@354e5
+22 Jan 2019 17:18:29 GMT:  Kind = WARNING
+22 Jan 2019 17:18:29 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:18:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b85e30
+22 Jan 2019 17:18:29 GMT:  Kind = WARNING
+22 Jan 2019 17:18:29 GMT: Name = C:\Users\USER\Desktop\lab 3\task03.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:18:48 GMT: diagnostics = javax.tools.DiagnosticCollector@ad7ad7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@163fd71
+fileObjects = [C:\Users\USER\Desktop\lab 3\task1.java, C:\Users\USER\Desktop\lab 3\task02.java, C:\Users\USER\Desktop\lab 3\task03.java, C:\Users\USER\Desktop\LOL CDE\task2.java]
+22 Jan 2019 17:18:48 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@14f445f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\lab 3;C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+22 Jan 2019 17:18:48 GMT: Compiler call returned
+22 Jan 2019 17:18:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d9a421
+22 Jan 2019 17:18:48 GMT:  Kind = WARNING
+22 Jan 2019 17:18:48 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:18:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e66645
+22 Jan 2019 17:18:48 GMT:  Kind = WARNING
+22 Jan 2019 17:18:48 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:18:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13612c3
+22 Jan 2019 17:18:48 GMT:  Kind = WARNING
+22 Jan 2019 17:18:48 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:18:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@197bb99
+22 Jan 2019 17:18:48 GMT:  Kind = WARNING
+22 Jan 2019 17:18:48 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:18:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@cce2e6
+22 Jan 2019 17:18:48 GMT:  Kind = WARNING
+22 Jan 2019 17:18:48 GMT: Name = C:\Users\USER\Desktop\lab 3\task03.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:18:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1456174
+22 Jan 2019 17:18:48 GMT:  Kind = WARNING
+22 Jan 2019 17:18:48 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task2.java LineNo = 6 ColNo = 9 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:19:31 GMT: diagnostics = javax.tools.DiagnosticCollector@460e08
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1e92bd
+fileObjects = [C:\Users\USER\Desktop\lab 3\task1.java, C:\Users\USER\Desktop\lab 3\task02.java, C:\Users\USER\Desktop\lab 3\task03.java, C:\Users\USER\Desktop\LOL CDE\task2.java]
+22 Jan 2019 17:19:31 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@2960c4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\lab 3;C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+22 Jan 2019 17:19:32 GMT: Compiler call returned
+22 Jan 2019 17:19:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@278292
+22 Jan 2019 17:19:32 GMT:  Kind = WARNING
+22 Jan 2019 17:19:32 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:19:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@108c088
+22 Jan 2019 17:19:32 GMT:  Kind = WARNING
+22 Jan 2019 17:19:32 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:19:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16c2ff7
+22 Jan 2019 17:19:32 GMT:  Kind = WARNING
+22 Jan 2019 17:19:32 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:19:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1224cc8
+22 Jan 2019 17:19:32 GMT:  Kind = WARNING
+22 Jan 2019 17:19:32 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:19:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fd69ac
+22 Jan 2019 17:19:32 GMT:  Kind = WARNING
+22 Jan 2019 17:19:32 GMT: Name = C:\Users\USER\Desktop\lab 3\task03.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:19:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b8fcdb
+22 Jan 2019 17:19:32 GMT:  Kind = WARNING
+22 Jan 2019 17:19:32 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task2.java LineNo = 6 ColNo = 9 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:19:52 GMT: diagnostics = javax.tools.DiagnosticCollector@fad7d5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1a51b47
+fileObjects = [C:\Users\USER\Desktop\lab 3\task1.java, C:\Users\USER\Desktop\lab 3\task02.java, C:\Users\USER\Desktop\lab 3\task03.java, C:\Users\USER\Desktop\LOL CDE\task2.java]
+22 Jan 2019 17:19:52 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@d80faf' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\lab 3;C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+22 Jan 2019 17:19:52 GMT: Compiler call returned
+22 Jan 2019 17:19:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c713fb
+22 Jan 2019 17:19:52 GMT:  Kind = WARNING
+22 Jan 2019 17:19:52 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:19:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15642
+22 Jan 2019 17:19:52 GMT:  Kind = WARNING
+22 Jan 2019 17:19:52 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:19:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@961b3f
+22 Jan 2019 17:19:52 GMT:  Kind = WARNING
+22 Jan 2019 17:19:52 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:19:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c80ae9
+22 Jan 2019 17:19:52 GMT:  Kind = WARNING
+22 Jan 2019 17:19:52 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:19:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1408e60
+22 Jan 2019 17:19:52 GMT:  Kind = WARNING
+22 Jan 2019 17:19:52 GMT: Name = C:\Users\USER\Desktop\lab 3\task03.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:19:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19d76cc
+22 Jan 2019 17:19:52 GMT:  Kind = WARNING
+22 Jan 2019 17:19:52 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task2.java LineNo = 6 ColNo = 9 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:21:52 GMT: diagnostics = javax.tools.DiagnosticCollector@1b5a10d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@14542dd
+fileObjects = [C:\Users\USER\Desktop\lab 3\task1.java, C:\Users\USER\Desktop\lab 3\task02.java, C:\Users\USER\Desktop\lab 3\task03.java, C:\Users\USER\Desktop\LOL CDE\task2.java]
+22 Jan 2019 17:21:52 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3e1553' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\lab 3;C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+22 Jan 2019 17:21:52 GMT: Compiler call returned
+22 Jan 2019 17:21:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@108f7be
+22 Jan 2019 17:21:52 GMT:  Kind = WARNING
+22 Jan 2019 17:21:52 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:21:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@560a41
+22 Jan 2019 17:21:52 GMT:  Kind = WARNING
+22 Jan 2019 17:21:52 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:21:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c217b6
+22 Jan 2019 17:21:52 GMT:  Kind = WARNING
+22 Jan 2019 17:21:52 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:21:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13d92b6
+22 Jan 2019 17:21:52 GMT:  Kind = WARNING
+22 Jan 2019 17:21:52 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:21:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13a2ce8
+22 Jan 2019 17:21:52 GMT:  Kind = WARNING
+22 Jan 2019 17:21:52 GMT: Name = C:\Users\USER\Desktop\lab 3\task03.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:21:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@102300c
+22 Jan 2019 17:21:52 GMT:  Kind = WARNING
+22 Jan 2019 17:21:52 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task2.java LineNo = 6 ColNo = 9 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:22:12 GMT: diagnostics = javax.tools.DiagnosticCollector@166cf04
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@b5b4c1
+fileObjects = [C:\Users\USER\Desktop\lab 3\task1.java, C:\Users\USER\Desktop\lab 3\task02.java, C:\Users\USER\Desktop\lab 3\task03.java, C:\Users\USER\Desktop\LOL CDE\task2.java]
+22 Jan 2019 17:22:12 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1d134aa' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\lab 3;C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+22 Jan 2019 17:22:12 GMT: Compiler call returned
+22 Jan 2019 17:22:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10fab5a
+22 Jan 2019 17:22:12 GMT:  Kind = WARNING
+22 Jan 2019 17:22:12 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:22:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c1dd7
+22 Jan 2019 17:22:12 GMT:  Kind = WARNING
+22 Jan 2019 17:22:12 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:22:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17f5955
+22 Jan 2019 17:22:12 GMT:  Kind = WARNING
+22 Jan 2019 17:22:12 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:22:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a4e1b0
+22 Jan 2019 17:22:12 GMT:  Kind = WARNING
+22 Jan 2019 17:22:12 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:22:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@27cd85
+22 Jan 2019 17:22:12 GMT:  Kind = WARNING
+22 Jan 2019 17:22:12 GMT: Name = C:\Users\USER\Desktop\lab 3\task03.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:22:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bf9233
+22 Jan 2019 17:22:12 GMT:  Kind = WARNING
+22 Jan 2019 17:22:12 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task2.java LineNo = 6 ColNo = 9 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:24:44 GMT: diagnostics = javax.tools.DiagnosticCollector@10b4738
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@d47be5
+fileObjects = [C:\Users\USER\Desktop\lab 3\task1.java, C:\Users\USER\Desktop\lab 3\task02.java, C:\Users\USER\Desktop\lab 3\task03.java, C:\Users\USER\Desktop\LOL CDE\task2.java]
+22 Jan 2019 17:24:44 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@c3e545' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\lab 3;C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+22 Jan 2019 17:24:45 GMT: Compiler call returned
+22 Jan 2019 17:24:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@29e539
+22 Jan 2019 17:24:45 GMT:  Kind = WARNING
+22 Jan 2019 17:24:45 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:24:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4fae10
+22 Jan 2019 17:24:45 GMT:  Kind = WARNING
+22 Jan 2019 17:24:45 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:24:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2a639a
+22 Jan 2019 17:24:45 GMT:  Kind = WARNING
+22 Jan 2019 17:24:45 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:24:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1dd558d
+22 Jan 2019 17:24:45 GMT:  Kind = WARNING
+22 Jan 2019 17:24:45 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:24:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b87b62
+22 Jan 2019 17:24:45 GMT:  Kind = WARNING
+22 Jan 2019 17:24:45 GMT: Name = C:\Users\USER\Desktop\lab 3\task03.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:24:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d6650b
+22 Jan 2019 17:24:45 GMT:  Kind = ERROR
+22 Jan 2019 17:24:45 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task2.java LineNo = 14 ColNo = 37 Msg = 'statistics cannot be resolved to a variable'
+22 Jan 2019 17:24:57 GMT: diagnostics = javax.tools.DiagnosticCollector@b1e761
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1b4d3a8
+fileObjects = [C:\Users\USER\Desktop\lab 3\task1.java, C:\Users\USER\Desktop\lab 3\task02.java, C:\Users\USER\Desktop\lab 3\task03.java, C:\Users\USER\Desktop\LOL CDE\task2.java]
+22 Jan 2019 17:24:57 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3375b4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\lab 3;C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+22 Jan 2019 17:24:57 GMT: Compiler call returned
+22 Jan 2019 17:24:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@702aee
+22 Jan 2019 17:24:57 GMT:  Kind = WARNING
+22 Jan 2019 17:24:57 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:24:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@56760b
+22 Jan 2019 17:24:57 GMT:  Kind = WARNING
+22 Jan 2019 17:24:57 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:24:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e9d99d
+22 Jan 2019 17:24:57 GMT:  Kind = WARNING
+22 Jan 2019 17:24:57 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:24:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@898e0a
+22 Jan 2019 17:24:57 GMT:  Kind = WARNING
+22 Jan 2019 17:24:57 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:24:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fbf82f
+22 Jan 2019 17:24:57 GMT:  Kind = WARNING
+22 Jan 2019 17:24:57 GMT: Name = C:\Users\USER\Desktop\lab 3\task03.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:24:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a3135
+22 Jan 2019 17:24:57 GMT:  Kind = ERROR
+22 Jan 2019 17:24:57 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task2.java LineNo = 11 ColNo = 3 Msg = 'The local variable n may not have been initialized'
+22 Jan 2019 17:24:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1062658
+22 Jan 2019 17:24:57 GMT:  Kind = WARNING
+22 Jan 2019 17:24:57 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task2.java LineNo = 6 ColNo = 9 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:25:20 GMT: diagnostics = javax.tools.DiagnosticCollector@1c1ee93
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@c4a7fb
+fileObjects = [C:\Users\USER\Desktop\lab 3\task1.java, C:\Users\USER\Desktop\lab 3\task02.java, C:\Users\USER\Desktop\lab 3\task03.java, C:\Users\USER\Desktop\LOL CDE\task2.java]
+22 Jan 2019 17:25:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@a9a07' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\lab 3;C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+22 Jan 2019 17:25:20 GMT: Compiler call returned
+22 Jan 2019 17:25:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@482067
+22 Jan 2019 17:25:20 GMT:  Kind = WARNING
+22 Jan 2019 17:25:20 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:25:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@50b33b
+22 Jan 2019 17:25:20 GMT:  Kind = WARNING
+22 Jan 2019 17:25:20 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:25:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@106723
+22 Jan 2019 17:25:20 GMT:  Kind = WARNING
+22 Jan 2019 17:25:20 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:25:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b520d7
+22 Jan 2019 17:25:20 GMT:  Kind = WARNING
+22 Jan 2019 17:25:20 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:25:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e777fe
+22 Jan 2019 17:25:20 GMT:  Kind = WARNING
+22 Jan 2019 17:25:20 GMT: Name = C:\Users\USER\Desktop\lab 3\task03.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:25:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8fd2d2
+22 Jan 2019 17:25:20 GMT:  Kind = WARNING
+22 Jan 2019 17:25:20 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task2.java LineNo = 6 ColNo = 9 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:25:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b397df
+22 Jan 2019 17:25:20 GMT:  Kind = WARNING
+22 Jan 2019 17:25:20 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task2.java LineNo = 8 ColNo = 8 Msg = 'The value of the local variable n is not used'
+22 Jan 2019 17:25:30 GMT: diagnostics = javax.tools.DiagnosticCollector@e26566
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1ba3bd8
+fileObjects = [C:\Users\USER\Desktop\lab 3\task1.java, C:\Users\USER\Desktop\lab 3\task02.java, C:\Users\USER\Desktop\lab 3\task03.java, C:\Users\USER\Desktop\LOL CDE\task2.java]
+22 Jan 2019 17:25:30 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@f0397a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\lab 3;C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+22 Jan 2019 17:25:31 GMT: Compiler call returned
+22 Jan 2019 17:25:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8daaae
+22 Jan 2019 17:25:31 GMT:  Kind = WARNING
+22 Jan 2019 17:25:31 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:25:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d073cd
+22 Jan 2019 17:25:31 GMT:  Kind = WARNING
+22 Jan 2019 17:25:31 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:25:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d5175b
+22 Jan 2019 17:25:31 GMT:  Kind = WARNING
+22 Jan 2019 17:25:31 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:25:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@155b896
+22 Jan 2019 17:25:31 GMT:  Kind = WARNING
+22 Jan 2019 17:25:31 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:25:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a0a048
+22 Jan 2019 17:25:31 GMT:  Kind = WARNING
+22 Jan 2019 17:25:31 GMT: Name = C:\Users\USER\Desktop\lab 3\task03.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:25:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@139ea8a
+22 Jan 2019 17:25:31 GMT:  Kind = WARNING
+22 Jan 2019 17:25:31 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task2.java LineNo = 6 ColNo = 9 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:25:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1784ff9
+22 Jan 2019 17:25:31 GMT:  Kind = WARNING
+22 Jan 2019 17:25:31 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task2.java LineNo = 8 ColNo = 8 Msg = 'The value of the local variable n is not used'
+22 Jan 2019 17:25:45 GMT: diagnostics = javax.tools.DiagnosticCollector@d44dbc
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1dab369
+fileObjects = [C:\Users\USER\Desktop\lab 3\task1.java, C:\Users\USER\Desktop\lab 3\task02.java, C:\Users\USER\Desktop\lab 3\task03.java, C:\Users\USER\Desktop\LOL CDE\task2.java]
+22 Jan 2019 17:25:45 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@d6f821' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\lab 3;C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+22 Jan 2019 17:25:45 GMT: Compiler call returned
+22 Jan 2019 17:25:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b95446
+22 Jan 2019 17:25:45 GMT:  Kind = WARNING
+22 Jan 2019 17:25:45 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:25:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19c9e54
+22 Jan 2019 17:25:45 GMT:  Kind = WARNING
+22 Jan 2019 17:25:45 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:25:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@64b03c
+22 Jan 2019 17:25:45 GMT:  Kind = WARNING
+22 Jan 2019 17:25:45 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:25:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3464b1
+22 Jan 2019 17:25:45 GMT:  Kind = WARNING
+22 Jan 2019 17:25:45 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:25:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14e0015
+22 Jan 2019 17:25:45 GMT:  Kind = WARNING
+22 Jan 2019 17:25:45 GMT: Name = C:\Users\USER\Desktop\lab 3\task03.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:25:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3947d6
+22 Jan 2019 17:25:45 GMT:  Kind = WARNING
+22 Jan 2019 17:25:45 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task2.java LineNo = 6 ColNo = 9 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:25:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a9e63d
+22 Jan 2019 17:25:45 GMT:  Kind = WARNING
+22 Jan 2019 17:25:45 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task2.java LineNo = 8 ColNo = 8 Msg = 'The value of the local variable n is not used'
+22 Jan 2019 17:44:47 GMT: diagnostics = javax.tools.DiagnosticCollector@2b331d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1be4679
+fileObjects = [C:\Users\USER\Desktop\lab 3\task1.java, C:\Users\USER\Desktop\lab 3\task02.java, C:\Users\USER\Desktop\lab 3\task03.java, C:\Users\USER\Desktop\lab 3\task06.java]
+22 Jan 2019 17:44:47 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f36ac5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\lab 3;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+22 Jan 2019 17:44:48 GMT: Compiler call returned
+22 Jan 2019 17:44:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ce72eb
+22 Jan 2019 17:44:48 GMT:  Kind = WARNING
+22 Jan 2019 17:44:48 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:44:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6c53ea
+22 Jan 2019 17:44:48 GMT:  Kind = WARNING
+22 Jan 2019 17:44:48 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:44:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@58a35
+22 Jan 2019 17:44:48 GMT:  Kind = WARNING
+22 Jan 2019 17:44:48 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:44:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2bd3f3
+22 Jan 2019 17:44:48 GMT:  Kind = WARNING
+22 Jan 2019 17:44:48 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:44:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@38ba37
+22 Jan 2019 17:44:48 GMT:  Kind = WARNING
+22 Jan 2019 17:44:48 GMT: Name = C:\Users\USER\Desktop\lab 3\task03.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:44:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6b5999
+22 Jan 2019 17:44:48 GMT:  Kind = ERROR
+22 Jan 2019 17:44:48 GMT: Name = C:\Users\USER\Desktop\lab 3\task06.java LineNo = 9 ColNo = 12 Msg = 'Syntax error, insert ";" to complete LocalVariableDeclarationStatement'
+22 Jan 2019 17:44:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7928c3
+22 Jan 2019 17:44:48 GMT:  Kind = ERROR
+22 Jan 2019 17:44:48 GMT: Name = C:\Users\USER\Desktop\lab 3\task06.java LineNo = 10 ColNo = 12 Msg = 'Syntax error, insert ";" to complete LocalVariableDeclarationStatement'
+22 Jan 2019 17:44:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@43d8f4
+22 Jan 2019 17:44:48 GMT:  Kind = ERROR
+22 Jan 2019 17:44:48 GMT: Name = C:\Users\USER\Desktop\lab 3\task06.java LineNo = 13 ColNo = 30 Msg = 'Syntax error on token "name", delete this token'
+22 Jan 2019 17:45:13 GMT: diagnostics = javax.tools.DiagnosticCollector@14d411d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1b9e8c5
+fileObjects = [C:\Users\USER\Desktop\lab 3\task1.java, C:\Users\USER\Desktop\lab 3\task02.java, C:\Users\USER\Desktop\lab 3\task03.java, C:\Users\USER\Desktop\lab 3\task06.java]
+22 Jan 2019 17:45:13 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1c805a0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\lab 3;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+22 Jan 2019 17:45:13 GMT: Compiler call returned
+22 Jan 2019 17:45:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b5089e
+22 Jan 2019 17:45:13 GMT:  Kind = WARNING
+22 Jan 2019 17:45:13 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:45:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@109f970
+22 Jan 2019 17:45:13 GMT:  Kind = WARNING
+22 Jan 2019 17:45:13 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:45:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d6cd65
+22 Jan 2019 17:45:13 GMT:  Kind = WARNING
+22 Jan 2019 17:45:13 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:45:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19f5479
+22 Jan 2019 17:45:13 GMT:  Kind = WARNING
+22 Jan 2019 17:45:13 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:45:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17e4d6c
+22 Jan 2019 17:45:13 GMT:  Kind = WARNING
+22 Jan 2019 17:45:13 GMT: Name = C:\Users\USER\Desktop\lab 3\task03.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:45:13 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e2e40a
+22 Jan 2019 17:45:13 GMT:  Kind = ERROR
+22 Jan 2019 17:45:13 GMT: Name = C:\Users\USER\Desktop\lab 3\task06.java LineNo = 13 ColNo = 30 Msg = 'Syntax error on token "name", delete this token'
+22 Jan 2019 17:45:17 GMT: diagnostics = javax.tools.DiagnosticCollector@1efc2eb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@25f253
+fileObjects = [C:\Users\USER\Desktop\lab 3\task1.java, C:\Users\USER\Desktop\lab 3\task02.java, C:\Users\USER\Desktop\lab 3\task03.java, C:\Users\USER\Desktop\lab 3\task06.java]
+22 Jan 2019 17:45:17 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@17623ac' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\lab 3;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+22 Jan 2019 17:45:17 GMT: Compiler call returned
+22 Jan 2019 17:45:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1deedde
+22 Jan 2019 17:45:17 GMT:  Kind = WARNING
+22 Jan 2019 17:45:17 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:45:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6b957b
+22 Jan 2019 17:45:17 GMT:  Kind = WARNING
+22 Jan 2019 17:45:17 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:45:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@127cc1f
+22 Jan 2019 17:45:17 GMT:  Kind = WARNING
+22 Jan 2019 17:45:17 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:45:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e40c87
+22 Jan 2019 17:45:17 GMT:  Kind = WARNING
+22 Jan 2019 17:45:17 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:45:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@cb9d8
+22 Jan 2019 17:45:17 GMT:  Kind = WARNING
+22 Jan 2019 17:45:17 GMT: Name = C:\Users\USER\Desktop\lab 3\task03.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:45:17 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a276f
+22 Jan 2019 17:45:17 GMT:  Kind = WARNING
+22 Jan 2019 17:45:17 GMT: Name = C:\Users\USER\Desktop\lab 3\task06.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:45:36 GMT: diagnostics = javax.tools.DiagnosticCollector@1b93d6f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1c8f6d5
+fileObjects = [C:\Users\USER\Desktop\lab 3\task1.java, C:\Users\USER\Desktop\lab 3\task02.java, C:\Users\USER\Desktop\lab 3\task03.java, C:\Users\USER\Desktop\lab 3\task06.java]
+22 Jan 2019 17:45:36 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@add5e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\lab 3;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+22 Jan 2019 17:45:36 GMT: Compiler call returned
+22 Jan 2019 17:45:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a96bd5
+22 Jan 2019 17:45:36 GMT:  Kind = WARNING
+22 Jan 2019 17:45:36 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:45:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a06555
+22 Jan 2019 17:45:36 GMT:  Kind = WARNING
+22 Jan 2019 17:45:36 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:45:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1818261
+22 Jan 2019 17:45:36 GMT:  Kind = WARNING
+22 Jan 2019 17:45:36 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:45:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1688db9
+22 Jan 2019 17:45:36 GMT:  Kind = WARNING
+22 Jan 2019 17:45:36 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:45:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a1a582
+22 Jan 2019 17:45:36 GMT:  Kind = WARNING
+22 Jan 2019 17:45:36 GMT: Name = C:\Users\USER\Desktop\lab 3\task03.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:45:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@30f9ee
+22 Jan 2019 17:45:36 GMT:  Kind = WARNING
+22 Jan 2019 17:45:36 GMT: Name = C:\Users\USER\Desktop\lab 3\task06.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:46:07 GMT: diagnostics = javax.tools.DiagnosticCollector@11b222d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@a3028e
+fileObjects = [C:\Users\USER\Desktop\lab 3\task1.java, C:\Users\USER\Desktop\lab 3\task02.java, C:\Users\USER\Desktop\lab 3\task03.java, C:\Users\USER\Desktop\lab 3\task06.java]
+22 Jan 2019 17:46:07 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@171c5f3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\lab 3;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+22 Jan 2019 17:46:07 GMT: Compiler call returned
+22 Jan 2019 17:46:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f4bc37
+22 Jan 2019 17:46:07 GMT:  Kind = WARNING
+22 Jan 2019 17:46:07 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:46:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@27ad05
+22 Jan 2019 17:46:07 GMT:  Kind = WARNING
+22 Jan 2019 17:46:07 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:46:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15f6ad9
+22 Jan 2019 17:46:07 GMT:  Kind = WARNING
+22 Jan 2019 17:46:07 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:46:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a815ef
+22 Jan 2019 17:46:07 GMT:  Kind = WARNING
+22 Jan 2019 17:46:07 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:46:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6b0149
+22 Jan 2019 17:46:07 GMT:  Kind = WARNING
+22 Jan 2019 17:46:07 GMT: Name = C:\Users\USER\Desktop\lab 3\task03.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:46:07 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ffd484
+22 Jan 2019 17:46:07 GMT:  Kind = ERROR
+22 Jan 2019 17:46:07 GMT: Name = C:\Users\USER\Desktop\lab 3\task06.java LineNo = 12 ColNo = 30 Msg = 'Syntax error on token "name", delete this token'
+22 Jan 2019 17:46:09 GMT: diagnostics = javax.tools.DiagnosticCollector@17d3155
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ac0f07
+fileObjects = [C:\Users\USER\Desktop\lab 3\task1.java, C:\Users\USER\Desktop\lab 3\task02.java, C:\Users\USER\Desktop\lab 3\task03.java, C:\Users\USER\Desktop\lab 3\task06.java]
+22 Jan 2019 17:46:09 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4e1b39' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\lab 3;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+22 Jan 2019 17:46:09 GMT: Compiler call returned
+22 Jan 2019 17:46:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@53631d
+22 Jan 2019 17:46:09 GMT:  Kind = WARNING
+22 Jan 2019 17:46:09 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:46:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10d824b
+22 Jan 2019 17:46:09 GMT:  Kind = WARNING
+22 Jan 2019 17:46:09 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:46:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5121ce
+22 Jan 2019 17:46:09 GMT:  Kind = WARNING
+22 Jan 2019 17:46:09 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:46:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19787e
+22 Jan 2019 17:46:09 GMT:  Kind = WARNING
+22 Jan 2019 17:46:09 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:46:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@101be2b
+22 Jan 2019 17:46:09 GMT:  Kind = WARNING
+22 Jan 2019 17:46:09 GMT: Name = C:\Users\USER\Desktop\lab 3\task03.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:46:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@69771a
+22 Jan 2019 17:46:09 GMT:  Kind = WARNING
+22 Jan 2019 17:46:09 GMT: Name = C:\Users\USER\Desktop\lab 3\task06.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:48:25 GMT: diagnostics = javax.tools.DiagnosticCollector@593bbc
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1a5725e
+fileObjects = [C:\Users\USER\Desktop\lab 3\task1.java, C:\Users\USER\Desktop\lab 3\task02.java, C:\Users\USER\Desktop\lab 3\task03.java, C:\Users\USER\Desktop\lab 3\task06.java, C:\Users\USER\Desktop\lab 3\task05.java]
+22 Jan 2019 17:48:25 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4b486f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\lab 3;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+22 Jan 2019 17:48:25 GMT: Compiler call returned
+22 Jan 2019 17:48:25 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@611c72
+22 Jan 2019 17:48:25 GMT:  Kind = WARNING
+22 Jan 2019 17:48:25 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:48:25 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@50cd85
+22 Jan 2019 17:48:25 GMT:  Kind = WARNING
+22 Jan 2019 17:48:25 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:48:25 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1972a54
+22 Jan 2019 17:48:25 GMT:  Kind = WARNING
+22 Jan 2019 17:48:25 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:48:25 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14fed6b
+22 Jan 2019 17:48:25 GMT:  Kind = WARNING
+22 Jan 2019 17:48:25 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+22 Jan 2019 17:48:25 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@143e8fc
+22 Jan 2019 17:48:25 GMT:  Kind = WARNING
+22 Jan 2019 17:48:25 GMT: Name = C:\Users\USER\Desktop\lab 3\task03.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:48:25 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1eb2b34
+22 Jan 2019 17:48:25 GMT:  Kind = WARNING
+22 Jan 2019 17:48:25 GMT: Name = C:\Users\USER\Desktop\lab 3\task06.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 17:48:25 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1946cd7
+22 Jan 2019 17:48:25 GMT:  Kind = WARNING
+22 Jan 2019 17:48:25 GMT: Name = C:\Users\USER\Desktop\lab 3\task05.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+22 Jan 2019 18:09:06 GMT: Log 'EclipseCompiler.txt' opened: 22 Jan 2019 18:09:06 GMT with name C:\Users\USER\Desktop\lab 3\EclipseCompiler.txt
+1 Feb 2019 19:19:11 GMT: Log 'EclipseCompiler.txt' opened: 1 Feb 2019 19:19:11 GMT with name C:\Users\USER\Desktop\lab 3\EclipseCompiler.txt
+1 Feb 2019 19:28:33 GMT: diagnostics = javax.tools.DiagnosticCollector@7b0636
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1d4a58a
+fileObjects = [C:\Users\USER\Desktop\lab 3\task1.java, C:\Users\USER\Desktop\LOL CDE\task02.java]
+1 Feb 2019 19:28:33 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3957d0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\lab 3;C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+1 Feb 2019 19:28:33 GMT: Compiler call returned
+1 Feb 2019 19:28:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c174a7
+1 Feb 2019 19:28:33 GMT:  Kind = WARNING
+1 Feb 2019 19:28:33 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Feb 2019 19:28:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bfe813
+1 Feb 2019 19:28:33 GMT:  Kind = WARNING
+1 Feb 2019 19:28:34 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+1 Feb 2019 19:28:34 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a9d02f
+1 Feb 2019 19:28:34 GMT:  Kind = WARNING
+1 Feb 2019 19:28:34 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Feb 2019 19:28:39 GMT: diagnostics = javax.tools.DiagnosticCollector@1b267f7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6c4a64
+fileObjects = [C:\Users\USER\Desktop\lab 3\task1.java, C:\Users\USER\Desktop\LOL CDE\task02.java]
+1 Feb 2019 19:28:39 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@d2e4a7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\lab 3;C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+1 Feb 2019 19:28:39 GMT: Compiler call returned
+1 Feb 2019 19:28:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@cbb91f
+1 Feb 2019 19:28:39 GMT:  Kind = WARNING
+1 Feb 2019 19:28:39 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Feb 2019 19:28:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1732134
+1 Feb 2019 19:28:39 GMT:  Kind = WARNING
+1 Feb 2019 19:28:39 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+1 Feb 2019 19:28:39 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16f744b
+1 Feb 2019 19:28:39 GMT:  Kind = WARNING
+1 Feb 2019 19:28:39 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Feb 2019 19:35:12 GMT: diagnostics = javax.tools.DiagnosticCollector@afa49
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@10c0
+fileObjects = [C:\Users\USER\Desktop\lab 3\task1.java, C:\Users\USER\Desktop\LOL CDE\task02.java]
+1 Feb 2019 19:35:12 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1169798' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\lab 3;C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+1 Feb 2019 19:35:12 GMT: Compiler call returned
+1 Feb 2019 19:35:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c3220d
+1 Feb 2019 19:35:12 GMT:  Kind = WARNING
+1 Feb 2019 19:35:12 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Feb 2019 19:35:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7e6189
+1 Feb 2019 19:35:12 GMT:  Kind = WARNING
+1 Feb 2019 19:35:12 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+1 Feb 2019 19:35:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1061d9d
+1 Feb 2019 19:35:12 GMT:  Kind = WARNING
+1 Feb 2019 19:35:12 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Feb 2019 5:14:35 GMT: Log 'EclipseCompiler.txt' opened: 21 Feb 2019 5:14:35 GMT with name C:\Users\USER\Desktop\lab 3\EclipseCompiler.txt
+21 Feb 2019 6:26:17 GMT: diagnostics = javax.tools.DiagnosticCollector@12d2d67
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@dc5e0e
+fileObjects = [C:\Users\USER\Desktop\lab 3\task1.java, C:\Users\USER\Desktop\lab 3\task02.java, C:\Users\USER\Desktop\lab 3\task03.java, C:\Users\USER\Desktop\lab 3\task05.java, C:\Users\USER\Desktop\lab 3\task06.java]
+21 Feb 2019 6:26:17 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1a2d3fa' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\lab 3;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+21 Feb 2019 6:26:18 GMT: Compiler call returned
+21 Feb 2019 6:26:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3a7594
+21 Feb 2019 6:26:18 GMT:  Kind = WARNING
+21 Feb 2019 6:26:18 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Feb 2019 6:26:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1cf97f0
+21 Feb 2019 6:26:18 GMT:  Kind = WARNING
+21 Feb 2019 6:26:18 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+21 Feb 2019 6:26:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fcdcc8
+21 Feb 2019 6:26:18 GMT:  Kind = WARNING
+21 Feb 2019 6:26:18 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Feb 2019 6:26:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15481c9
+21 Feb 2019 6:26:18 GMT:  Kind = WARNING
+21 Feb 2019 6:26:18 GMT: Name = C:\Users\USER\Desktop\lab 3\task03.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Feb 2019 6:26:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d77e8f
+21 Feb 2019 6:26:18 GMT:  Kind = WARNING
+21 Feb 2019 6:26:18 GMT: Name = C:\Users\USER\Desktop\lab 3\task05.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Feb 2019 6:26:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@980612
+21 Feb 2019 6:26:18 GMT:  Kind = WARNING
+21 Feb 2019 6:26:18 GMT: Name = C:\Users\USER\Desktop\lab 3\task06.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Feb 2019 6:26:45 GMT: diagnostics = javax.tools.DiagnosticCollector@1c0d076
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1429a2d
+fileObjects = [C:\Users\USER\Desktop\lab 3\task1.java, C:\Users\USER\Desktop\lab 3\task02.java, C:\Users\USER\Desktop\lab 3\task03.java, C:\Users\USER\Desktop\lab 3\task05.java, C:\Users\USER\Desktop\lab 3\task06.java]
+21 Feb 2019 6:26:45 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1ae89db' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\lab 3;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+21 Feb 2019 6:26:45 GMT: Compiler call returned
+21 Feb 2019 6:26:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5bfcea
+21 Feb 2019 6:26:45 GMT:  Kind = WARNING
+21 Feb 2019 6:26:45 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Feb 2019 6:26:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@49eeb7
+21 Feb 2019 6:26:45 GMT:  Kind = WARNING
+21 Feb 2019 6:26:45 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+21 Feb 2019 6:26:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2bd292
+21 Feb 2019 6:26:45 GMT:  Kind = WARNING
+21 Feb 2019 6:26:45 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Feb 2019 6:26:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@105756
+21 Feb 2019 6:26:45 GMT:  Kind = WARNING
+21 Feb 2019 6:26:45 GMT: Name = C:\Users\USER\Desktop\lab 3\task03.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Feb 2019 6:26:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b75712
+21 Feb 2019 6:26:45 GMT:  Kind = WARNING
+21 Feb 2019 6:26:45 GMT: Name = C:\Users\USER\Desktop\lab 3\task05.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Feb 2019 6:26:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e42e85
+21 Feb 2019 6:26:45 GMT:  Kind = WARNING
+21 Feb 2019 6:26:45 GMT: Name = C:\Users\USER\Desktop\lab 3\task06.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Feb 2019 6:27:03 GMT: diagnostics = javax.tools.DiagnosticCollector@d1a614
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@10abcb8
+fileObjects = [C:\Users\USER\Desktop\lab 3\task1.java, C:\Users\USER\Desktop\lab 3\task02.java, C:\Users\USER\Desktop\lab 3\task03.java, C:\Users\USER\Desktop\lab 3\task05.java, C:\Users\USER\Desktop\lab 3\task06.java]
+21 Feb 2019 6:27:03 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@13b96d3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\lab 3;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+21 Feb 2019 6:27:03 GMT: Compiler call returned
+21 Feb 2019 6:27:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1931722
+21 Feb 2019 6:27:03 GMT:  Kind = WARNING
+21 Feb 2019 6:27:03 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Feb 2019 6:27:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a06956
+21 Feb 2019 6:27:03 GMT:  Kind = WARNING
+21 Feb 2019 6:27:03 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+21 Feb 2019 6:27:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b368a3
+21 Feb 2019 6:27:03 GMT:  Kind = WARNING
+21 Feb 2019 6:27:03 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Feb 2019 6:27:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17fa982
+21 Feb 2019 6:27:03 GMT:  Kind = WARNING
+21 Feb 2019 6:27:03 GMT: Name = C:\Users\USER\Desktop\lab 3\task03.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Feb 2019 6:27:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f68688
+21 Feb 2019 6:27:03 GMT:  Kind = WARNING
+21 Feb 2019 6:27:03 GMT: Name = C:\Users\USER\Desktop\lab 3\task05.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Feb 2019 6:27:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@125a359
+21 Feb 2019 6:27:03 GMT:  Kind = WARNING
+21 Feb 2019 6:27:03 GMT: Name = C:\Users\USER\Desktop\lab 3\task06.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Feb 2019 6:30:45 GMT: diagnostics = javax.tools.DiagnosticCollector@4f9100
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1912d8e
+fileObjects = [C:\Users\USER\Desktop\lab 3\task1.java, C:\Users\USER\Desktop\lab 3\task03.java, C:\Users\USER\Desktop\lab 3\task05.java, C:\Users\USER\Desktop\lab 3\task06.java, C:\Users\USER\Desktop\lab 3\task02.java]
+21 Feb 2019 6:30:45 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@efe8aa' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\lab 3;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+21 Feb 2019 6:30:45 GMT: Compiler call returned
+21 Feb 2019 6:30:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4458d0
+21 Feb 2019 6:30:45 GMT:  Kind = WARNING
+21 Feb 2019 6:30:45 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Feb 2019 6:30:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@131d7c2
+21 Feb 2019 6:30:45 GMT:  Kind = WARNING
+21 Feb 2019 6:30:45 GMT: Name = C:\Users\USER\Desktop\lab 3\task1.java LineNo = 8 ColNo = 10 Msg = 'The value of the local variable temp is not used'
+21 Feb 2019 6:30:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@163d40c
+21 Feb 2019 6:30:45 GMT:  Kind = WARNING
+21 Feb 2019 6:30:45 GMT: Name = C:\Users\USER\Desktop\lab 3\task03.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Feb 2019 6:30:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c8589c
+21 Feb 2019 6:30:45 GMT:  Kind = WARNING
+21 Feb 2019 6:30:45 GMT: Name = C:\Users\USER\Desktop\lab 3\task05.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Feb 2019 6:30:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e61a8d
+21 Feb 2019 6:30:45 GMT:  Kind = WARNING
+21 Feb 2019 6:30:45 GMT: Name = C:\Users\USER\Desktop\lab 3\task06.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Feb 2019 6:30:45 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d65f14
+21 Feb 2019 6:30:45 GMT:  Kind = WARNING
+21 Feb 2019 6:30:45 GMT: Name = C:\Users\USER\Desktop\lab 3\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Feb 2019 12:46:53 GMT: Log 'EclipseCompiler.txt' opened: 21 Feb 2019 12:46:53 GMT with name C:\Users\USER\Desktop\lab 3\EclipseCompiler.txt
+21 Feb 2019 12:47:03 GMT: Log 'EclipseCompiler.txt' opened: 21 Feb 2019 12:47:03 GMT with name C:\Users\USER\Desktop\lab 3\EclipseCompiler.txt
+21 Feb 2019 12:50:49 GMT: Log 'EclipseCompiler.txt' opened: 21 Feb 2019 12:50:49 GMT with name C:\Users\USER\Desktop\lab 3\EclipseCompiler.txt
+9 Mar 2019 16:58:36 GMT: Log 'EclipseCompiler.txt' opened: 9 Mar 2019 16:58:36 GMT with name D:\CSE 111 lab code\ID-18101011 Lab 3 CSE 111 SEC-05\EclipseCompiler.txt
+15 Apr 2019 17:44:34 GMT: Log 'EclipseCompiler.txt' opened: 15 Apr 2019 17:44:34 GMT with name D:\CSE 111 lab code\ID-18101011 Lab 3 CSE 111 SEC-05\EclipseCompiler.txt
+15 Apr 2019 18:06:24 GMT: diagnostics = javax.tools.DiagnosticCollector@1242769
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@d825d3
+fileObjects = [C:\Users\USER\Desktop\110 prac\ATest.java, C:\Users\USER\Desktop\110 prac\A.java]
+15 Apr 2019 18:06:24 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1ac265' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\110 prac;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+15 Apr 2019 18:06:25 GMT: Compiler call returned
+15 Apr 2019 18:06:25 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fa27f5
+15 Apr 2019 18:06:25 GMT:  Kind = WARNING
+15 Apr 2019 18:06:25 GMT: Name = C:\Users\USER\Desktop\110 prac\ATest.java LineNo = 16 ColNo = 10 Msg = 'The static field A.var1 should be accessed in a static way'
+15 Apr 2019 18:06:25 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1add7d0
+15 Apr 2019 18:06:25 GMT:  Kind = WARNING
+15 Apr 2019 18:06:25 GMT: Name = C:\Users\USER\Desktop\110 prac\ATest.java LineNo = 18 ColNo = 46 Msg = 'The static field A.var1 should be accessed in a static way'
+15 Apr 2019 18:06:25 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@75905f
+15 Apr 2019 18:06:25 GMT:  Kind = WARNING
+15 Apr 2019 18:06:25 GMT: Name = C:\Users\USER\Desktop\110 prac\ATest.java LineNo = 19 ColNo = 56 Msg = 'The static field A.var1 should be accessed in a static way'
+15 Apr 2019 18:06:35 GMT: diagnostics = javax.tools.DiagnosticCollector@77ec94
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4847de
+fileObjects = [C:\Users\USER\Desktop\110 prac\ATest.java, C:\Users\USER\Desktop\110 prac\A.java]
+15 Apr 2019 18:06:35 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@104ddba' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\110 prac;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+15 Apr 2019 18:06:35 GMT: Compiler call returned
+15 Apr 2019 18:06:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@579310
+15 Apr 2019 18:06:35 GMT:  Kind = WARNING
+15 Apr 2019 18:06:35 GMT: Name = C:\Users\USER\Desktop\110 prac\ATest.java LineNo = 16 ColNo = 10 Msg = 'The static field A.var1 should be accessed in a static way'
+15 Apr 2019 18:06:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c260f6
+15 Apr 2019 18:06:35 GMT:  Kind = WARNING
+15 Apr 2019 18:06:35 GMT: Name = C:\Users\USER\Desktop\110 prac\ATest.java LineNo = 18 ColNo = 46 Msg = 'The static field A.var1 should be accessed in a static way'
+15 Apr 2019 18:06:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@678d1c
+15 Apr 2019 18:06:35 GMT:  Kind = WARNING
+15 Apr 2019 18:06:35 GMT: Name = C:\Users\USER\Desktop\110 prac\ATest.java LineNo = 19 ColNo = 56 Msg = 'The static field A.var1 should be accessed in a static way'

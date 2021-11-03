@@ -1,0 +1,8 @@
+public class course
+{
+  String course;
+  public course(){
+  }
+  public course(String c){
+    course=c;
+  }

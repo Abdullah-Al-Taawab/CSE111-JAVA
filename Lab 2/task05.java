@@ -1,0 +1,18 @@
+import java.util.Scanner;
+public class task05
+{
+    public static void main(String [] args)
+    {
+        Scanner sc= new Scanner (System.in);
+        System.out.println("enter the voltage, resistance, inductance, capacitance, frequency");
+        int e=sc.nextInt();
+        int r=sc.nextInt();
+        int l=sc.nextInt();
+       int  c=sc.nextInt();
+        int f=sc.nextInt();
+        double i=(e/Math.sqrt(Math.pow(r,2)+Math.pow(2*Math.PI*f*l-1/2*Math.PI*f*c,2)));
+        System.out.println(i);
+    }
+}
+//AAT
+                               

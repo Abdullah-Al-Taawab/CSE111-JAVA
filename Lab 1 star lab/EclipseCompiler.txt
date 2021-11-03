@@ -1,0 +1,1299 @@
+4 Nov 2018 17:34:25 GMT: Log 'EclipseCompiler.txt' opened: 4 Nov 2018 17:34:25 GMT with name C:\Users\USER\Desktop\Star lab\Taawab\EclipseCompiler.txt
+4 Nov 2018 17:34:37 GMT: diagnostics = javax.tools.DiagnosticCollector@1cfe619
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@c94a93
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task08.java]
+4 Nov 2018 17:34:37 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3472e7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+4 Nov 2018 17:34:38 GMT: Compiler call returned
+4 Nov 2018 17:34:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13c5138
+4 Nov 2018 17:34:38 GMT:  Kind = WARNING
+4 Nov 2018 17:34:38 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task08.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+4 Nov 2018 17:34:57 GMT: diagnostics = javax.tools.DiagnosticCollector@1c22969
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5d36ed
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task08.java]
+4 Nov 2018 17:34:57 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f3d3b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+4 Nov 2018 17:34:57 GMT: Compiler call returned
+4 Nov 2018 17:34:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@31053b
+4 Nov 2018 17:34:57 GMT:  Kind = WARNING
+4 Nov 2018 17:34:57 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task08.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+4 Nov 2018 17:35:25 GMT: diagnostics = javax.tools.DiagnosticCollector@1de3cdd
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@17b26c4
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task08.java]
+4 Nov 2018 17:35:25 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@8b11a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+4 Nov 2018 17:35:25 GMT: Compiler call returned
+4 Nov 2018 17:35:25 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a3656f
+4 Nov 2018 17:35:25 GMT:  Kind = WARNING
+4 Nov 2018 17:35:25 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task08.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+4 Nov 2018 17:36:35 GMT: diagnostics = javax.tools.DiagnosticCollector@1796923
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@b5f926
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task08.java]
+4 Nov 2018 17:36:35 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@117091a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+4 Nov 2018 17:36:35 GMT: Compiler call returned
+4 Nov 2018 17:36:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1005909
+4 Nov 2018 17:36:35 GMT:  Kind = WARNING
+4 Nov 2018 17:36:35 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task08.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+4 Nov 2018 17:37:11 GMT: Log 'EclipseCompiler.txt' opened: 4 Nov 2018 17:37:11 GMT with name C:\Users\USER\Desktop\Star lab\Taawab\EclipseCompiler.txt
+4 Nov 2018 18:39:29 GMT: diagnostics = javax.tools.DiagnosticCollector@dc62f2
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1f4141e
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task08.java, D:\AJAIRA CODE\task00.java]
+4 Nov 2018 18:39:29 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4ed956' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;D:\AJAIRA CODE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+4 Nov 2018 18:39:30 GMT: Compiler call returned
+4 Nov 2018 18:39:30 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@82279
+4 Nov 2018 18:39:30 GMT:  Kind = WARNING
+4 Nov 2018 18:39:30 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task08.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+4 Nov 2018 18:39:30 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15ac7b0
+4 Nov 2018 18:39:30 GMT:  Kind = ERROR
+4 Nov 2018 18:39:30 GMT: Name = D:\AJAIRA CODE\task00.java LineNo = 9 ColNo = 9 Msg = 'i cannot be resolved to a variable'
+4 Nov 2018 18:39:30 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a82288
+4 Nov 2018 18:39:30 GMT:  Kind = ERROR
+4 Nov 2018 18:39:30 GMT: Name = D:\AJAIRA CODE\task00.java LineNo = 9 ColNo = 13 Msg = 'i cannot be resolved to a variable'
+4 Nov 2018 18:39:30 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f77ce6
+4 Nov 2018 18:39:30 GMT:  Kind = ERROR
+4 Nov 2018 18:39:30 GMT: Name = D:\AJAIRA CODE\task00.java LineNo = 9 ColNo = 21 Msg = 'i cannot be resolved to a variable'
+4 Nov 2018 18:39:30 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ec3643
+4 Nov 2018 18:39:30 GMT:  Kind = ERROR
+4 Nov 2018 18:39:30 GMT: Name = D:\AJAIRA CODE\task00.java LineNo = 10 ColNo = 11 Msg = 'j cannot be resolved to a variable'
+4 Nov 2018 18:39:30 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f81809
+4 Nov 2018 18:39:30 GMT:  Kind = ERROR
+4 Nov 2018 18:39:30 GMT: Name = D:\AJAIRA CODE\task00.java LineNo = 10 ColNo = 15 Msg = 'j cannot be resolved to a variable'
+4 Nov 2018 18:39:30 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@149c63c
+4 Nov 2018 18:39:30 GMT:  Kind = ERROR
+4 Nov 2018 18:39:30 GMT: Name = D:\AJAIRA CODE\task00.java LineNo = 10 ColNo = 22 Msg = 'j cannot be resolved to a variable'
+4 Nov 2018 18:39:30 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b99bff
+4 Nov 2018 18:39:30 GMT:  Kind = ERROR
+4 Nov 2018 18:39:30 GMT: Name = D:\AJAIRA CODE\task00.java LineNo = 12 ColNo = 11 Msg = 'k cannot be resolved to a variable'
+4 Nov 2018 18:39:30 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f3f6e5
+4 Nov 2018 18:39:30 GMT:  Kind = ERROR
+4 Nov 2018 18:39:30 GMT: Name = D:\AJAIRA CODE\task00.java LineNo = 12 ColNo = 15 Msg = 'k cannot be resolved to a variable'
+4 Nov 2018 18:39:30 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10d8142
+4 Nov 2018 18:39:30 GMT:  Kind = ERROR
+4 Nov 2018 18:39:30 GMT: Name = D:\AJAIRA CODE\task00.java LineNo = 12 ColNo = 18 Msg = 'i cannot be resolved to a variable'
+4 Nov 2018 18:39:30 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@30d879
+4 Nov 2018 18:39:30 GMT:  Kind = ERROR
+4 Nov 2018 18:39:30 GMT: Name = D:\AJAIRA CODE\task00.java LineNo = 12 ColNo = 23 Msg = 'k cannot be resolved to a variable'
+4 Nov 2018 18:39:44 GMT: diagnostics = javax.tools.DiagnosticCollector@188d6e6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@92c78b
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task08.java, D:\AJAIRA CODE\task00.java]
+4 Nov 2018 18:39:44 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@e68539' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;D:\AJAIRA CODE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+4 Nov 2018 18:39:44 GMT: Compiler call returned
+4 Nov 2018 18:39:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@135c7e6
+4 Nov 2018 18:39:44 GMT:  Kind = WARNING
+4 Nov 2018 18:39:44 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task08.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+4 Nov 2018 18:39:44 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@70780c
+4 Nov 2018 18:39:44 GMT:  Kind = WARNING
+4 Nov 2018 18:39:44 GMT: Name = D:\AJAIRA CODE\task00.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+4 Nov 2018 18:40:29 GMT: diagnostics = javax.tools.DiagnosticCollector@1656ba0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@848bfb
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task08.java, D:\AJAIRA CODE\task00.java]
+4 Nov 2018 18:40:29 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1b4c2f9' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;D:\AJAIRA CODE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+4 Nov 2018 18:40:29 GMT: Compiler call returned
+4 Nov 2018 18:40:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c5c86f
+4 Nov 2018 18:40:29 GMT:  Kind = WARNING
+4 Nov 2018 18:40:29 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task08.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+4 Nov 2018 18:40:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1bf7f7a
+4 Nov 2018 18:40:29 GMT:  Kind = WARNING
+4 Nov 2018 18:40:29 GMT: Name = D:\AJAIRA CODE\task00.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+4 Nov 2018 18:41:06 GMT: diagnostics = javax.tools.DiagnosticCollector@ffb562
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@bf9e05
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task08.java, D:\AJAIRA CODE\task00.java]
+4 Nov 2018 18:41:06 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@123b6bc' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;D:\AJAIRA CODE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+4 Nov 2018 18:41:06 GMT: Compiler call returned
+4 Nov 2018 18:41:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@cde5af
+4 Nov 2018 18:41:06 GMT:  Kind = WARNING
+4 Nov 2018 18:41:06 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task08.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+4 Nov 2018 18:41:06 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1306708
+4 Nov 2018 18:41:06 GMT:  Kind = WARNING
+4 Nov 2018 18:41:06 GMT: Name = D:\AJAIRA CODE\task00.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+5 Nov 2018 13:31:39 GMT: Log 'EclipseCompiler.txt' opened: 5 Nov 2018 13:31:39 GMT with name C:\Users\USER\Desktop\Star lab\Taawab\EclipseCompiler.txt
+5 Nov 2018 13:31:59 GMT: diagnostics = javax.tools.DiagnosticCollector@e6d928
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@197a928
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task08.java]
+5 Nov 2018 13:31:59 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@551220' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+5 Nov 2018 13:31:59 GMT: Compiler call returned
+5 Nov 2018 13:31:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d14635
+5 Nov 2018 13:31:59 GMT:  Kind = WARNING
+5 Nov 2018 13:31:59 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task08.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+5 Nov 2018 13:33:27 GMT: diagnostics = javax.tools.DiagnosticCollector@1c39d31
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@9e971c
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task08.java, C:\Users\USER\Desktop\Star lab\Taawab\task09.java]
+5 Nov 2018 13:33:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1fca34c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+5 Nov 2018 13:33:27 GMT: Compiler call returned
+5 Nov 2018 13:33:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e23a17
+5 Nov 2018 13:33:27 GMT:  Kind = WARNING
+5 Nov 2018 13:33:27 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task08.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+5 Nov 2018 13:33:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10c5ccb
+5 Nov 2018 13:33:27 GMT:  Kind = WARNING
+5 Nov 2018 13:33:27 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task09.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+5 Nov 2018 13:58:43 GMT: diagnostics = javax.tools.DiagnosticCollector@19cf92f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@dc72c4
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task08.java, C:\Users\USER\Desktop\Star lab\Taawab\task09.java]
+5 Nov 2018 13:58:43 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3db228' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+5 Nov 2018 13:58:43 GMT: Compiler call returned
+5 Nov 2018 13:58:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e72a65
+5 Nov 2018 13:58:43 GMT:  Kind = WARNING
+5 Nov 2018 13:58:43 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task08.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+5 Nov 2018 13:58:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6fae2b
+5 Nov 2018 13:58:43 GMT:  Kind = WARNING
+5 Nov 2018 13:58:43 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task09.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+5 Nov 2018 13:59:19 GMT: diagnostics = javax.tools.DiagnosticCollector@4c74ea
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1c1363d
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task08.java, C:\Users\USER\Desktop\Star lab\Taawab\task09.java, C:\Users\USER\Desktop\Star lab\Taawab\task10.java]
+5 Nov 2018 13:59:19 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@14a7863' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+5 Nov 2018 13:59:19 GMT: Compiler call returned
+5 Nov 2018 13:59:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@56dee9
+5 Nov 2018 13:59:19 GMT:  Kind = WARNING
+5 Nov 2018 13:59:19 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task08.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+5 Nov 2018 13:59:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1deebe8
+5 Nov 2018 13:59:19 GMT:  Kind = WARNING
+5 Nov 2018 13:59:19 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task09.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+5 Nov 2018 13:59:19 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@376396
+5 Nov 2018 13:59:19 GMT:  Kind = WARNING
+5 Nov 2018 13:59:19 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task10.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:20:12 GMT: Log 'EclipseCompiler.txt' opened: 6 Nov 2018 19:20:12 GMT with name C:\Users\USER\Desktop\Star lab\Taawab\EclipseCompiler.txt
+6 Nov 2018 19:23:57 GMT: diagnostics = javax.tools.DiagnosticCollector@77b9d3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1b4fd34
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task05.java, C:\Users\USER\Desktop\Star lab\Taawab\task16.java]
+6 Nov 2018 19:23:57 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1be1de7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:23:58 GMT: Compiler call returned
+6 Nov 2018 19:23:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c5ef0b
+6 Nov 2018 19:23:58 GMT:  Kind = WARNING
+6 Nov 2018 19:23:58 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task05.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:23:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6a430a
+6 Nov 2018 19:23:58 GMT:  Kind = ERROR
+6 Nov 2018 19:23:58 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task16.java LineNo = 14 ColNo = 18 Msg = 'ut cannot be resolved or is not a field'
+6 Nov 2018 19:24:15 GMT: diagnostics = javax.tools.DiagnosticCollector@cbc0c5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@188a8ba
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task05.java, C:\Users\USER\Desktop\Star lab\Taawab\task16.java]
+6 Nov 2018 19:24:15 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@d90d20' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:24:15 GMT: Compiler call returned
+6 Nov 2018 19:24:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10ec916
+6 Nov 2018 19:24:15 GMT:  Kind = WARNING
+6 Nov 2018 19:24:15 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task05.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:24:15 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11cf642
+6 Nov 2018 19:24:15 GMT:  Kind = WARNING
+6 Nov 2018 19:24:15 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task16.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:35:28 GMT: diagnostics = javax.tools.DiagnosticCollector@2d3c0e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1efbf05
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task05.java, C:\Users\USER\Desktop\Star lab\Taawab\task16.java]
+6 Nov 2018 19:35:28 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1ad6811' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:35:28 GMT: Compiler call returned
+6 Nov 2018 19:35:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1692550
+6 Nov 2018 19:35:28 GMT:  Kind = WARNING
+6 Nov 2018 19:35:28 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task05.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:35:28 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d8bda
+6 Nov 2018 19:35:28 GMT:  Kind = WARNING
+6 Nov 2018 19:35:28 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task16.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:36:05 GMT: diagnostics = javax.tools.DiagnosticCollector@c2b7cb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@869d30
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task05.java, C:\Users\USER\Desktop\Star lab\Taawab\task17.java]
+6 Nov 2018 19:36:05 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1327c39' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:36:05 GMT: Compiler call returned
+6 Nov 2018 19:36:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@182dc98
+6 Nov 2018 19:36:05 GMT:  Kind = WARNING
+6 Nov 2018 19:36:05 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task05.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:36:05 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13a5ab1
+6 Nov 2018 19:36:05 GMT:  Kind = WARNING
+6 Nov 2018 19:36:05 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task17.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:41:32 GMT: diagnostics = javax.tools.DiagnosticCollector@11ef7b5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@bb4a8
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task05.java, C:\Users\USER\Desktop\Star lab\Taawab\task17.java, C:\Users\USER\Desktop\Star lab\Taawab\task08.java, C:\Users\USER\Desktop\Star lab\Taawab\task18.java]
+6 Nov 2018 19:41:32 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@199f6' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:41:32 GMT: Compiler call returned
+6 Nov 2018 19:41:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1721d5
+6 Nov 2018 19:41:32 GMT:  Kind = WARNING
+6 Nov 2018 19:41:32 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task05.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:41:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@127f9f2
+6 Nov 2018 19:41:32 GMT:  Kind = WARNING
+6 Nov 2018 19:41:32 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task17.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:41:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12f2439
+6 Nov 2018 19:41:32 GMT:  Kind = WARNING
+6 Nov 2018 19:41:32 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task08.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:41:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18117bb
+6 Nov 2018 19:41:32 GMT:  Kind = ERROR
+6 Nov 2018 19:41:32 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 14 ColNo = 21 Msg = 'n cannot be resolved to a variable'
+6 Nov 2018 19:41:49 GMT: diagnostics = javax.tools.DiagnosticCollector@1779c94
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@e7e7d8
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task05.java, C:\Users\USER\Desktop\Star lab\Taawab\task17.java, C:\Users\USER\Desktop\Star lab\Taawab\task08.java, C:\Users\USER\Desktop\Star lab\Taawab\task18.java]
+6 Nov 2018 19:41:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@a5f0e1' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:41:49 GMT: Compiler call returned
+6 Nov 2018 19:41:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2a1ef
+6 Nov 2018 19:41:49 GMT:  Kind = WARNING
+6 Nov 2018 19:41:49 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task05.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:41:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@90b19b
+6 Nov 2018 19:41:49 GMT:  Kind = WARNING
+6 Nov 2018 19:41:49 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task17.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:41:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12136d6
+6 Nov 2018 19:41:49 GMT:  Kind = WARNING
+6 Nov 2018 19:41:49 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task08.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:41:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e47c1
+6 Nov 2018 19:41:49 GMT:  Kind = WARNING
+6 Nov 2018 19:41:49 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:43:36 GMT: diagnostics = javax.tools.DiagnosticCollector@ed8eeb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@68c2e8
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task05.java, C:\Users\USER\Desktop\Star lab\Taawab\task17.java, C:\Users\USER\Desktop\Star lab\Taawab\task08.java, C:\Users\USER\Desktop\Star lab\Taawab\task18.java]
+6 Nov 2018 19:43:36 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@11ffeef' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:43:36 GMT: Compiler call returned
+6 Nov 2018 19:43:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a3b55
+6 Nov 2018 19:43:36 GMT:  Kind = WARNING
+6 Nov 2018 19:43:36 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task05.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:43:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8b2bf1
+6 Nov 2018 19:43:36 GMT:  Kind = WARNING
+6 Nov 2018 19:43:36 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task17.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:43:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b422c2
+6 Nov 2018 19:43:36 GMT:  Kind = WARNING
+6 Nov 2018 19:43:36 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task08.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:43:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6f0a8d
+6 Nov 2018 19:43:36 GMT:  Kind = WARNING
+6 Nov 2018 19:43:36 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:47:02 GMT: diagnostics = javax.tools.DiagnosticCollector@92f4df
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3c9382
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task05.java, C:\Users\USER\Desktop\Star lab\Taawab\task17.java, C:\Users\USER\Desktop\Star lab\Taawab\task08.java, C:\Users\USER\Desktop\Star lab\Taawab\task18.java]
+6 Nov 2018 19:47:02 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@9204bc' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:47:02 GMT: Compiler call returned
+6 Nov 2018 19:47:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1df4658
+6 Nov 2018 19:47:02 GMT:  Kind = WARNING
+6 Nov 2018 19:47:02 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task05.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:47:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@74cb27
+6 Nov 2018 19:47:02 GMT:  Kind = WARNING
+6 Nov 2018 19:47:02 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task17.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:47:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7bb869
+6 Nov 2018 19:47:02 GMT:  Kind = WARNING
+6 Nov 2018 19:47:02 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task08.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:47:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fed92a
+6 Nov 2018 19:47:02 GMT:  Kind = WARNING
+6 Nov 2018 19:47:02 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:47:23 GMT: diagnostics = javax.tools.DiagnosticCollector@1aa058c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ab23fa
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task05.java, C:\Users\USER\Desktop\Star lab\Taawab\task17.java, C:\Users\USER\Desktop\Star lab\Taawab\task08.java, C:\Users\USER\Desktop\Star lab\Taawab\task18.java]
+6 Nov 2018 19:47:23 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@154b756' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:47:23 GMT: Compiler call returned
+6 Nov 2018 19:47:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@46c117
+6 Nov 2018 19:47:23 GMT:  Kind = WARNING
+6 Nov 2018 19:47:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task05.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:47:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a21584
+6 Nov 2018 19:47:23 GMT:  Kind = WARNING
+6 Nov 2018 19:47:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task17.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:47:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@163fc24
+6 Nov 2018 19:47:23 GMT:  Kind = WARNING
+6 Nov 2018 19:47:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task08.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:47:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@acb94e
+6 Nov 2018 19:47:23 GMT:  Kind = WARNING
+6 Nov 2018 19:47:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:48:49 GMT: diagnostics = javax.tools.DiagnosticCollector@c4ef54
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1fbea58
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task05.java, C:\Users\USER\Desktop\Star lab\Taawab\task17.java, C:\Users\USER\Desktop\Star lab\Taawab\task08.java, C:\Users\USER\Desktop\Star lab\Taawab\task18.java]
+6 Nov 2018 19:48:49 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@19ac635' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+6 Nov 2018 19:48:49 GMT: Compiler call returned
+6 Nov 2018 19:48:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@28c683
+6 Nov 2018 19:48:49 GMT:  Kind = WARNING
+6 Nov 2018 19:48:49 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task05.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:48:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@987568
+6 Nov 2018 19:48:49 GMT:  Kind = WARNING
+6 Nov 2018 19:48:49 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task17.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:48:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19c03d8
+6 Nov 2018 19:48:49 GMT:  Kind = WARNING
+6 Nov 2018 19:48:49 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task08.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 19:48:49 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ebde10
+6 Nov 2018 19:48:49 GMT:  Kind = WARNING
+6 Nov 2018 19:48:49 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 20:28:02 GMT: diagnostics = javax.tools.DiagnosticCollector@d9ac4b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2378af
+fileObjects = [C:\Users\USER\Desktop\LOL CDE\task01.java]
+6 Nov 2018 20:28:02 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@ae12' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+6 Nov 2018 20:28:02 GMT: Compiler call returned
+6 Nov 2018 20:28:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a315ae
+6 Nov 2018 20:28:02 GMT:  Kind = ERROR
+6 Nov 2018 20:28:02 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task01.java LineNo = 1 ColNo = 1 Msg = 'Syntax error on token "Import", import expected'
+6 Nov 2018 20:28:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@41b926
+6 Nov 2018 20:28:02 GMT:  Kind = ERROR
+6 Nov 2018 20:28:02 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task01.java LineNo = 6 ColNo = 5 Msg = 'Scanner cannot be resolved to a type'
+6 Nov 2018 20:28:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@110ce8d
+6 Nov 2018 20:28:02 GMT:  Kind = ERROR
+6 Nov 2018 20:28:02 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task01.java LineNo = 6 ColNo = 20 Msg = 'Scanner cannot be resolved to a type'
+6 Nov 2018 20:28:11 GMT: diagnostics = javax.tools.DiagnosticCollector@54b1cd
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@87235b
+fileObjects = [C:\Users\USER\Desktop\LOL CDE\task01.java]
+6 Nov 2018 20:28:11 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@3fb807' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+6 Nov 2018 20:28:11 GMT: Compiler call returned
+6 Nov 2018 20:28:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17ede18
+6 Nov 2018 20:28:11 GMT:  Kind = WARNING
+6 Nov 2018 20:28:11 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task01.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 20:29:16 GMT: diagnostics = javax.tools.DiagnosticCollector@1f3e923
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@582028
+fileObjects = [C:\Users\USER\Desktop\LOL CDE\task01.java]
+6 Nov 2018 20:29:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4c0123' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+6 Nov 2018 20:29:16 GMT: Compiler call returned
+6 Nov 2018 20:29:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11a4f71
+6 Nov 2018 20:29:16 GMT:  Kind = WARNING
+6 Nov 2018 20:29:16 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task01.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 20:30:43 GMT: diagnostics = javax.tools.DiagnosticCollector@dc7b34
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@15d6ca3
+fileObjects = [C:\Users\USER\Desktop\LOL CDE\task01.java]
+6 Nov 2018 20:30:43 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@991710' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+6 Nov 2018 20:30:43 GMT: Compiler call returned
+6 Nov 2018 20:30:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@128ef26
+6 Nov 2018 20:30:43 GMT:  Kind = WARNING
+6 Nov 2018 20:30:43 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task01.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 20:30:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17c3cac
+6 Nov 2018 20:30:43 GMT:  Kind = WARNING
+6 Nov 2018 20:30:43 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task01.java LineNo = 10 ColNo = 9 Msg = 'The value of the local variable n is not used'
+6 Nov 2018 20:31:02 GMT: diagnostics = javax.tools.DiagnosticCollector@18de73a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@144c66
+fileObjects = [C:\Users\USER\Desktop\LOL CDE\task01.java]
+6 Nov 2018 20:31:02 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@19fa1c3' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+6 Nov 2018 20:31:02 GMT: Compiler call returned
+6 Nov 2018 20:31:02 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ee42f3
+6 Nov 2018 20:31:02 GMT:  Kind = WARNING
+6 Nov 2018 20:31:02 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task01.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 20:31:02 GMT: diagnostics = javax.tools.DiagnosticCollector@7542c6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@f0ddd1
+fileObjects = [C:\Users\USER\Desktop\LOL CDE\task01.java]
+6 Nov 2018 20:31:02 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1a5b987' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+6 Nov 2018 20:31:03 GMT: Compiler call returned
+6 Nov 2018 20:31:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1588703
+6 Nov 2018 20:31:03 GMT:  Kind = WARNING
+6 Nov 2018 20:31:03 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task01.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 20:32:51 GMT: diagnostics = javax.tools.DiagnosticCollector@1b1b4bf
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@872b6f
+fileObjects = [C:\Users\USER\Desktop\LOL CDE\task01.java]
+6 Nov 2018 20:32:51 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@183a2d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+6 Nov 2018 20:32:51 GMT: Compiler call returned
+6 Nov 2018 20:32:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14e3f13
+6 Nov 2018 20:32:51 GMT:  Kind = WARNING
+6 Nov 2018 20:32:51 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task01.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 20:32:58 GMT: diagnostics = javax.tools.DiagnosticCollector@151ac72
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@d42cf6
+fileObjects = [C:\Users\USER\Desktop\LOL CDE\task01.java]
+6 Nov 2018 20:32:58 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@8473af' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+6 Nov 2018 20:32:58 GMT: Compiler call returned
+6 Nov 2018 20:32:58 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c78a1e
+6 Nov 2018 20:32:58 GMT:  Kind = WARNING
+6 Nov 2018 20:32:58 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task01.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 20:34:10 GMT: diagnostics = javax.tools.DiagnosticCollector@1cdbb6c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5174e
+fileObjects = [C:\Users\USER\Desktop\LOL CDE\task01.java]
+6 Nov 2018 20:34:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@d7f921' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+6 Nov 2018 20:34:10 GMT: Compiler call returned
+6 Nov 2018 20:34:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@25c8d1
+6 Nov 2018 20:34:10 GMT:  Kind = WARNING
+6 Nov 2018 20:34:10 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task01.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 20:42:18 GMT: diagnostics = javax.tools.DiagnosticCollector@be043b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@17441ea
+fileObjects = [C:\Users\USER\Desktop\LOL CDE\task01.java]
+6 Nov 2018 20:42:18 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1dea19c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+6 Nov 2018 20:42:18 GMT: Compiler call returned
+6 Nov 2018 20:42:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@80f3f7
+6 Nov 2018 20:42:18 GMT:  Kind = WARNING
+6 Nov 2018 20:42:18 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task01.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 20:45:11 GMT: diagnostics = javax.tools.DiagnosticCollector@dfcb17
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@c3d5ad
+fileObjects = [C:\Users\USER\Desktop\LOL CDE\task01.java]
+6 Nov 2018 20:45:11 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@61da8c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+6 Nov 2018 20:45:11 GMT: Compiler call returned
+6 Nov 2018 20:45:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6e4707
+6 Nov 2018 20:45:11 GMT:  Kind = WARNING
+6 Nov 2018 20:45:11 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task01.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 20:45:35 GMT: diagnostics = javax.tools.DiagnosticCollector@1122aa7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@7e1de4
+fileObjects = [C:\Users\USER\Desktop\LOL CDE\task01.java]
+6 Nov 2018 20:45:35 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@13d7f68' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+6 Nov 2018 20:45:35 GMT: Compiler call returned
+6 Nov 2018 20:45:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1721646
+6 Nov 2018 20:45:35 GMT:  Kind = WARNING
+6 Nov 2018 20:45:35 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task01.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 20:46:18 GMT: diagnostics = javax.tools.DiagnosticCollector@1a098cb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1cf002b
+fileObjects = [C:\Users\USER\Desktop\LOL CDE\task01.java]
+6 Nov 2018 20:46:18 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1e3ccee' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+6 Nov 2018 20:46:18 GMT: Compiler call returned
+6 Nov 2018 20:46:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10e5df6
+6 Nov 2018 20:46:18 GMT:  Kind = WARNING
+6 Nov 2018 20:46:18 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task01.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 21:05:21 GMT: diagnostics = javax.tools.DiagnosticCollector@442c7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@9e04fd
+fileObjects = [C:\Users\USER\Desktop\LOL CDE\task01.java]
+6 Nov 2018 21:05:21 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1caf2a2' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+6 Nov 2018 21:05:21 GMT: Compiler call returned
+6 Nov 2018 21:05:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11e0e9
+6 Nov 2018 21:05:21 GMT:  Kind = ERROR
+6 Nov 2018 21:05:21 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task01.java LineNo = 16 ColNo = 19 Msg = 'n cannot be resolved to a variable'
+6 Nov 2018 21:05:30 GMT: diagnostics = javax.tools.DiagnosticCollector@1700fab
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1128684
+fileObjects = [C:\Users\USER\Desktop\LOL CDE\task01.java]
+6 Nov 2018 21:05:30 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@18eee39' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+6 Nov 2018 21:05:30 GMT: Compiler call returned
+6 Nov 2018 21:05:30 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2cac18
+6 Nov 2018 21:05:30 GMT:  Kind = WARNING
+6 Nov 2018 21:05:30 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task01.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+6 Nov 2018 21:06:20 GMT: diagnostics = javax.tools.DiagnosticCollector@490f87
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@26cda7
+fileObjects = [C:\Users\USER\Desktop\LOL CDE\task01.java]
+6 Nov 2018 21:06:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@10dd730' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+6 Nov 2018 21:06:20 GMT: Compiler call returned
+6 Nov 2018 21:06:20 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@514c0a
+6 Nov 2018 21:06:20 GMT:  Kind = WARNING
+6 Nov 2018 21:06:20 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task01.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 13:31:55 GMT: Log 'EclipseCompiler.txt' opened: 13 Nov 2018 13:31:55 GMT with name C:\Users\USER\Desktop\Star lab\Taawab\EclipseCompiler.txt
+13 Nov 2018 13:32:04 GMT: Log 'EclipseCompiler.txt' opened: 13 Nov 2018 13:32:04 GMT with name C:\Users\USER\Desktop\Star lab\Taawab\EclipseCompiler.txt
+13 Nov 2018 13:32:12 GMT: diagnostics = javax.tools.DiagnosticCollector@4727ad
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1e7d74d
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task21.java]
+13 Nov 2018 13:32:12 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@ef81eb' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+13 Nov 2018 13:32:12 GMT: Compiler call returned
+13 Nov 2018 13:32:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@153565b
+13 Nov 2018 13:32:12 GMT:  Kind = WARNING
+13 Nov 2018 13:32:12 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task21.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 14:12:18 GMT: diagnostics = javax.tools.DiagnosticCollector@c3232b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@18c7acf
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task21.java, C:\Users\USER\Desktop\LOL CDE\task11.java]
+13 Nov 2018 14:12:18 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1e35900' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+13 Nov 2018 14:12:18 GMT: Compiler call returned
+13 Nov 2018 14:12:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ca3f74
+13 Nov 2018 14:12:18 GMT:  Kind = WARNING
+13 Nov 2018 14:12:18 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task21.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 14:12:18 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6c1512
+13 Nov 2018 14:12:18 GMT:  Kind = WARNING
+13 Nov 2018 14:12:18 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task11.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 14:12:35 GMT: diagnostics = javax.tools.DiagnosticCollector@9025f4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1c668c1
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task21.java, C:\Users\USER\Desktop\LOL CDE\task11.java]
+13 Nov 2018 14:12:35 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@4d4fdd' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+13 Nov 2018 14:12:35 GMT: Compiler call returned
+13 Nov 2018 14:12:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a10c26
+13 Nov 2018 14:12:35 GMT:  Kind = WARNING
+13 Nov 2018 14:12:35 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task21.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 14:12:35 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c50c26
+13 Nov 2018 14:12:35 GMT:  Kind = WARNING
+13 Nov 2018 14:12:35 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task11.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 14:12:57 GMT: diagnostics = javax.tools.DiagnosticCollector@6f93b9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1d41699
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task21.java, C:\Users\USER\Desktop\LOL CDE\task11.java]
+13 Nov 2018 14:12:57 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f01753' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+13 Nov 2018 14:12:57 GMT: Compiler call returned
+13 Nov 2018 14:12:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@feaa8a
+13 Nov 2018 14:12:57 GMT:  Kind = WARNING
+13 Nov 2018 14:12:57 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task21.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 14:12:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@dd9796
+13 Nov 2018 14:12:57 GMT:  Kind = WARNING
+13 Nov 2018 14:12:57 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task11.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 14:13:56 GMT: diagnostics = javax.tools.DiagnosticCollector@19e7fc6
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@74e31e
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task21.java, C:\Users\USER\Desktop\LOL CDE\task11.java]
+13 Nov 2018 14:13:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@10c1e03' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+13 Nov 2018 14:13:56 GMT: Compiler call returned
+13 Nov 2018 14:13:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c5a118
+13 Nov 2018 14:13:56 GMT:  Kind = WARNING
+13 Nov 2018 14:13:56 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task21.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 14:13:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@178bdc
+13 Nov 2018 14:13:56 GMT:  Kind = WARNING
+13 Nov 2018 14:13:56 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task11.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 14:17:04 GMT: diagnostics = javax.tools.DiagnosticCollector@13a546b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@5f425
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task21.java, C:\Users\USER\Desktop\LOL CDE\task11.java]
+13 Nov 2018 14:17:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@ed4fec' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+13 Nov 2018 14:17:04 GMT: Compiler call returned
+13 Nov 2018 14:17:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1918a1
+13 Nov 2018 14:17:04 GMT:  Kind = WARNING
+13 Nov 2018 14:17:04 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task21.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 14:17:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@57b493
+13 Nov 2018 14:17:04 GMT:  Kind = WARNING
+13 Nov 2018 14:17:04 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task11.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 14:21:16 GMT: diagnostics = javax.tools.DiagnosticCollector@161d8b1
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@11ea50d
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task21.java, C:\Users\USER\Desktop\Star lab\Taawab\task18.java, C:\Users\USER\Desktop\LOL CDE\task11.java]
+13 Nov 2018 14:21:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@e1e0e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\LOL CDE;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+13 Nov 2018 14:21:16 GMT: Compiler call returned
+13 Nov 2018 14:21:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@719bb7
+13 Nov 2018 14:21:16 GMT:  Kind = WARNING
+13 Nov 2018 14:21:16 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task21.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 14:21:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2c8336
+13 Nov 2018 14:21:16 GMT:  Kind = WARNING
+13 Nov 2018 14:21:16 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 14:21:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1120dad
+13 Nov 2018 14:21:16 GMT:  Kind = ERROR
+13 Nov 2018 14:21:16 GMT: Name = C:\Users\USER\Desktop\LOL CDE\task11.java LineNo = 17 ColNo = 27 Msg = 'Syntax error, insert ") Statement" to complete IfStatement'
+13 Nov 2018 14:21:31 GMT: diagnostics = javax.tools.DiagnosticCollector@12cf1f3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@fc6e83
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task18.java]
+13 Nov 2018 14:21:31 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@11810b7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+13 Nov 2018 14:21:31 GMT: Compiler call returned
+13 Nov 2018 14:21:31 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1dd27d2
+13 Nov 2018 14:21:31 GMT:  Kind = WARNING
+13 Nov 2018 14:21:31 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 14:21:47 GMT: diagnostics = javax.tools.DiagnosticCollector@d936cb
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@f74bf6
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task18.java]
+13 Nov 2018 14:21:47 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1683549' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+13 Nov 2018 14:21:48 GMT: Compiler call returned
+13 Nov 2018 14:21:48 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1865642
+13 Nov 2018 14:21:48 GMT:  Kind = ERROR
+13 Nov 2018 14:21:48 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 22 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+13 Nov 2018 14:21:51 GMT: diagnostics = javax.tools.DiagnosticCollector@1289997
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@178dc24
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task18.java]
+13 Nov 2018 14:21:51 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@101be4a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+13 Nov 2018 14:21:52 GMT: Compiler call returned
+13 Nov 2018 14:21:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e2b23e
+13 Nov 2018 14:21:52 GMT:  Kind = ERROR
+13 Nov 2018 14:21:52 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 3 ColNo = 1 Msg = 'Syntax error, insert "}" to complete ClassBody'
+13 Nov 2018 14:21:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e7a58e
+13 Nov 2018 14:21:52 GMT:  Kind = ERROR
+13 Nov 2018 14:21:52 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 21 ColNo = 3 Msg = 'Syntax error, insert "}" to complete MethodBody'
+13 Nov 2018 14:22:00 GMT: diagnostics = javax.tools.DiagnosticCollector@a7a1ee
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@806202
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task18.java]
+13 Nov 2018 14:22:00 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@931550' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+13 Nov 2018 14:22:00 GMT: Compiler call returned
+13 Nov 2018 14:22:00 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16f3a72
+13 Nov 2018 14:22:00 GMT:  Kind = WARNING
+13 Nov 2018 14:22:00 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 14:22:32 GMT: diagnostics = javax.tools.DiagnosticCollector@1cd3f2a
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@125daf7
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task18.java]
+13 Nov 2018 14:22:32 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@172816' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+13 Nov 2018 14:22:32 GMT: Compiler call returned
+13 Nov 2018 14:22:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@80ee
+13 Nov 2018 14:22:32 GMT:  Kind = WARNING
+13 Nov 2018 14:22:32 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 14:24:23 GMT: diagnostics = javax.tools.DiagnosticCollector@453a88
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1ac048b
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task18.java]
+13 Nov 2018 14:24:23 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1d57301' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+13 Nov 2018 14:24:23 GMT: Compiler call returned
+13 Nov 2018 14:24:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14d0da8
+13 Nov 2018 14:24:23 GMT:  Kind = WARNING
+13 Nov 2018 14:24:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 14:25:41 GMT: diagnostics = javax.tools.DiagnosticCollector@15070a4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@cc22f8
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task18.java]
+13 Nov 2018 14:25:41 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@18a7b95' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+13 Nov 2018 14:25:41 GMT: Compiler call returned
+13 Nov 2018 14:25:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@66168a
+13 Nov 2018 14:25:41 GMT:  Kind = WARNING
+13 Nov 2018 14:25:41 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 14:26:12 GMT: diagnostics = javax.tools.DiagnosticCollector@eb9d1f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@190f40c
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task18.java]
+13 Nov 2018 14:26:12 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@c9a87a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+13 Nov 2018 14:26:12 GMT: Compiler call returned
+13 Nov 2018 14:26:12 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c201d2
+13 Nov 2018 14:26:12 GMT:  Kind = WARNING
+13 Nov 2018 14:26:12 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 14:26:24 GMT: diagnostics = javax.tools.DiagnosticCollector@1bd14c4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@11bd358
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task18.java]
+13 Nov 2018 14:26:24 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@38f4af' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+13 Nov 2018 14:26:24 GMT: Compiler call returned
+13 Nov 2018 14:26:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@cf946a
+13 Nov 2018 14:26:24 GMT:  Kind = WARNING
+13 Nov 2018 14:26:24 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 14:31:10 GMT: diagnostics = javax.tools.DiagnosticCollector@18f25f8
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1ec1ca3
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task18.java]
+13 Nov 2018 14:31:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@5e1dd4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+13 Nov 2018 14:31:10 GMT: Compiler call returned
+13 Nov 2018 14:31:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1207f6
+13 Nov 2018 14:31:10 GMT:  Kind = WARNING
+13 Nov 2018 14:31:10 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 14:31:10 GMT: diagnostics = javax.tools.DiagnosticCollector@149c2d4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@3d15e4
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task18.java]
+13 Nov 2018 14:31:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@f610fc' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+13 Nov 2018 14:31:10 GMT: Compiler call returned
+13 Nov 2018 14:31:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1209c29
+13 Nov 2018 14:31:10 GMT:  Kind = WARNING
+13 Nov 2018 14:31:10 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 14:32:01 GMT: diagnostics = javax.tools.DiagnosticCollector@1cc6fb0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4d9805
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task18.java]
+13 Nov 2018 14:32:01 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1dc3484' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+13 Nov 2018 14:32:01 GMT: Compiler call returned
+13 Nov 2018 14:32:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4697f2
+13 Nov 2018 14:32:01 GMT:  Kind = WARNING
+13 Nov 2018 14:32:01 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 14:34:51 GMT: diagnostics = javax.tools.DiagnosticCollector@5240da
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@12891dc
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task18.java]
+13 Nov 2018 14:34:51 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1c83985' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+13 Nov 2018 14:34:51 GMT: Compiler call returned
+13 Nov 2018 14:34:51 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e107b6
+13 Nov 2018 14:34:51 GMT:  Kind = WARNING
+13 Nov 2018 14:34:51 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 14:35:16 GMT: diagnostics = javax.tools.DiagnosticCollector@78b428
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@17a822c
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task18.java]
+13 Nov 2018 14:35:16 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1925b3e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+13 Nov 2018 14:35:16 GMT: Compiler call returned
+13 Nov 2018 14:35:16 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a74739
+13 Nov 2018 14:35:16 GMT:  Kind = WARNING
+13 Nov 2018 14:35:16 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 14:40:21 GMT: diagnostics = javax.tools.DiagnosticCollector@edb9ff
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1755671
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task18.java]
+13 Nov 2018 14:40:21 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1ae5923' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+13 Nov 2018 14:40:21 GMT: Compiler call returned
+13 Nov 2018 14:40:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@658add
+13 Nov 2018 14:40:21 GMT:  Kind = WARNING
+13 Nov 2018 14:40:21 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 14:40:32 GMT: diagnostics = javax.tools.DiagnosticCollector@1ba910d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1a0d73
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task18.java]
+13 Nov 2018 14:40:32 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1a0b12e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+13 Nov 2018 14:40:32 GMT: Compiler call returned
+13 Nov 2018 14:40:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f84d44
+13 Nov 2018 14:40:32 GMT:  Kind = WARNING
+13 Nov 2018 14:40:32 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 14:43:21 GMT: diagnostics = javax.tools.DiagnosticCollector@192ca9e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@aad7a
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task18.java]
+13 Nov 2018 14:43:21 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1b05ac2' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+13 Nov 2018 14:43:21 GMT: Compiler call returned
+13 Nov 2018 14:43:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d1a754
+13 Nov 2018 14:43:21 GMT:  Kind = WARNING
+13 Nov 2018 14:43:21 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 14:44:11 GMT: diagnostics = javax.tools.DiagnosticCollector@15e249e
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@51c053
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task18.java]
+13 Nov 2018 14:44:11 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1a7507e' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+13 Nov 2018 14:44:11 GMT: Compiler call returned
+13 Nov 2018 14:44:11 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1105702
+13 Nov 2018 14:44:11 GMT:  Kind = WARNING
+13 Nov 2018 14:44:11 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 14:57:04 GMT: Log 'EclipseCompiler.txt' opened: 13 Nov 2018 14:57:04 GMT with name C:\Users\USER\Desktop\Star lab\Taawab\EclipseCompiler.txt
+13 Nov 2018 14:57:56 GMT: diagnostics = javax.tools.DiagnosticCollector@8f216f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ab0017
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task20.java]
+13 Nov 2018 14:57:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1f9ab47' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+13 Nov 2018 14:57:57 GMT: Compiler call returned
+13 Nov 2018 14:57:57 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@139b49
+13 Nov 2018 14:57:57 GMT:  Kind = WARNING
+13 Nov 2018 14:57:57 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task20.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+13 Nov 2018 14:58:14 GMT: diagnostics = javax.tools.DiagnosticCollector@17e3ad7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@512d18
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task20.java]
+13 Nov 2018 14:58:14 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@d4d329' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+13 Nov 2018 14:58:14 GMT: Compiler call returned
+13 Nov 2018 14:58:14 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d72fe
+13 Nov 2018 14:58:14 GMT:  Kind = WARNING
+13 Nov 2018 14:58:14 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task20.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:51:15 GMT: Log 'EclipseCompiler.txt' opened: 1 Dec 2018 17:51:15 GMT with name C:\Users\USER\Desktop\Star lab\Taawab\EclipseCompiler.txt
+1 Dec 2018 17:52:53 GMT: diagnostics = javax.tools.DiagnosticCollector@11febda
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1fb28be
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task01.java, C:\Users\USER\Desktop\Star lab\Taawab\task02.java, C:\Users\USER\Desktop\Star lab\Taawab\task03.java, C:\Users\USER\Desktop\Star lab\Taawab\task04.java, C:\Users\USER\Desktop\Star lab\Taawab\task05.java, C:\Users\USER\Desktop\Star lab\Taawab\task06.java, C:\Users\USER\Desktop\Star lab\Taawab\task07.java, C:\Users\USER\Desktop\Star lab\Taawab\task08.java, C:\Users\USER\Desktop\Star lab\Taawab\task09.java, C:\Users\USER\Desktop\Star lab\Taawab\task10.java]
+1 Dec 2018 17:52:53 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1d831f2' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+1 Dec 2018 17:52:53 GMT: Compiler call returned
+1 Dec 2018 17:52:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f70bd7
+1 Dec 2018 17:52:53 GMT:  Kind = ERROR
+1 Dec 2018 17:52:53 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task01.java LineNo = 2 ColNo = 14 Msg = 'The public type task02 must be defined in its own file'
+1 Dec 2018 17:52:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a91a3b
+1 Dec 2018 17:52:53 GMT:  Kind = ERROR
+1 Dec 2018 17:52:53 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task02.java LineNo = 2 ColNo = 14 Msg = 'The public type task03 must be defined in its own file'
+1 Dec 2018 17:52:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14219ea
+1 Dec 2018 17:52:53 GMT:  Kind = ERROR
+1 Dec 2018 17:52:53 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task03.java LineNo = 2 ColNo = 14 Msg = 'The type task03 is already defined'
+1 Dec 2018 17:52:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9e980e
+1 Dec 2018 17:52:53 GMT:  Kind = WARNING
+1 Dec 2018 17:52:53 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task04.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:52:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19e3459
+1 Dec 2018 17:52:53 GMT:  Kind = WARNING
+1 Dec 2018 17:52:53 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task05.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:52:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@638753
+1 Dec 2018 17:52:53 GMT:  Kind = WARNING
+1 Dec 2018 17:52:53 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task06.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:52:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1715abc
+1 Dec 2018 17:52:53 GMT:  Kind = WARNING
+1 Dec 2018 17:52:53 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task07.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:52:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17be6f4
+1 Dec 2018 17:52:53 GMT:  Kind = WARNING
+1 Dec 2018 17:52:53 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task08.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:52:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f9267e
+1 Dec 2018 17:52:53 GMT:  Kind = WARNING
+1 Dec 2018 17:52:53 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task09.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:52:53 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17677cd
+1 Dec 2018 17:52:53 GMT:  Kind = WARNING
+1 Dec 2018 17:52:53 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task10.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:52:59 GMT: diagnostics = javax.tools.DiagnosticCollector@61099f
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@166b57
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task01.java, C:\Users\USER\Desktop\Star lab\Taawab\task02.java, C:\Users\USER\Desktop\Star lab\Taawab\task03.java, C:\Users\USER\Desktop\Star lab\Taawab\task04.java, C:\Users\USER\Desktop\Star lab\Taawab\task05.java, C:\Users\USER\Desktop\Star lab\Taawab\task06.java, C:\Users\USER\Desktop\Star lab\Taawab\task07.java, C:\Users\USER\Desktop\Star lab\Taawab\task08.java, C:\Users\USER\Desktop\Star lab\Taawab\task09.java, C:\Users\USER\Desktop\Star lab\Taawab\task10.java]
+1 Dec 2018 17:52:59 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@18563f0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+1 Dec 2018 17:52:59 GMT: Compiler call returned
+1 Dec 2018 17:52:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@fa49fa
+1 Dec 2018 17:52:59 GMT:  Kind = ERROR
+1 Dec 2018 17:52:59 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task01.java LineNo = 2 ColNo = 14 Msg = 'The public type task02 must be defined in its own file'
+1 Dec 2018 17:52:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@385a41
+1 Dec 2018 17:52:59 GMT:  Kind = ERROR
+1 Dec 2018 17:52:59 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task02.java LineNo = 2 ColNo = 14 Msg = 'The public type task03 must be defined in its own file'
+1 Dec 2018 17:52:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c44290
+1 Dec 2018 17:52:59 GMT:  Kind = ERROR
+1 Dec 2018 17:52:59 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task03.java LineNo = 2 ColNo = 14 Msg = 'The type task03 is already defined'
+1 Dec 2018 17:52:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@181422b
+1 Dec 2018 17:52:59 GMT:  Kind = WARNING
+1 Dec 2018 17:52:59 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task04.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:52:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11e6938
+1 Dec 2018 17:52:59 GMT:  Kind = WARNING
+1 Dec 2018 17:52:59 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task05.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:52:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10cd308
+1 Dec 2018 17:52:59 GMT:  Kind = WARNING
+1 Dec 2018 17:52:59 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task06.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:52:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e5dc7b
+1 Dec 2018 17:52:59 GMT:  Kind = WARNING
+1 Dec 2018 17:52:59 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task07.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:52:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1444c56
+1 Dec 2018 17:52:59 GMT:  Kind = WARNING
+1 Dec 2018 17:52:59 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task08.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:52:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f1aeef
+1 Dec 2018 17:52:59 GMT:  Kind = WARNING
+1 Dec 2018 17:52:59 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task09.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:52:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@eaa90a
+1 Dec 2018 17:52:59 GMT:  Kind = WARNING
+1 Dec 2018 17:52:59 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task10.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:53:52 GMT: diagnostics = javax.tools.DiagnosticCollector@503296
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@94a1c0
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task01.java, C:\Users\USER\Desktop\Star lab\Taawab\task02.java]
+1 Dec 2018 17:53:52 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1cea7e5' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+1 Dec 2018 17:53:52 GMT: Compiler call returned
+1 Dec 2018 17:53:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19d3446
+1 Dec 2018 17:53:52 GMT:  Kind = ERROR
+1 Dec 2018 17:53:52 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task01.java LineNo = 2 ColNo = 14 Msg = 'The public type task02 must be defined in its own file'
+1 Dec 2018 17:53:52 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@165dc3f
+1 Dec 2018 17:53:52 GMT:  Kind = ERROR
+1 Dec 2018 17:53:52 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task02.java LineNo = 2 ColNo = 14 Msg = 'The public type task03 must be defined in its own file'
+1 Dec 2018 17:54:04 GMT: diagnostics = javax.tools.DiagnosticCollector@1e503b4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@47f655
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task01.java, C:\Users\USER\Desktop\Star lab\Taawab\task02.java]
+1 Dec 2018 17:54:04 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@18ec587' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+1 Dec 2018 17:54:04 GMT: Compiler call returned
+1 Dec 2018 17:54:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a3a9c8
+1 Dec 2018 17:54:04 GMT:  Kind = ERROR
+1 Dec 2018 17:54:04 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task01.java LineNo = 2 ColNo = 14 Msg = 'The public type task02 must be defined in its own file'
+1 Dec 2018 17:54:04 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1762dc3
+1 Dec 2018 17:54:04 GMT:  Kind = ERROR
+1 Dec 2018 17:54:04 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task02.java LineNo = 2 ColNo = 14 Msg = 'The type task02 is already defined'
+1 Dec 2018 17:54:10 GMT: diagnostics = javax.tools.DiagnosticCollector@3ac0fe
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@15fbb3d
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task02.java, C:\Users\USER\Desktop\Star lab\Taawab\task01.java]
+1 Dec 2018 17:54:10 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@fea278' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+1 Dec 2018 17:54:10 GMT: Compiler call returned
+1 Dec 2018 17:54:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1982734
+1 Dec 2018 17:54:10 GMT:  Kind = WARNING
+1 Dec 2018 17:54:10 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:54:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13239d4
+1 Dec 2018 17:54:10 GMT:  Kind = WARNING
+1 Dec 2018 17:54:10 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task01.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:55:03 GMT: diagnostics = javax.tools.DiagnosticCollector@eb1107
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@cccfbd
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task01.java, C:\Users\USER\Desktop\Star lab\Taawab\task02.java]
+1 Dec 2018 17:55:03 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@fa8a6d' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+1 Dec 2018 17:55:03 GMT: Compiler call returned
+1 Dec 2018 17:55:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@198a294
+1 Dec 2018 17:55:03 GMT:  Kind = WARNING
+1 Dec 2018 17:55:03 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task01.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:55:03 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@454e70
+1 Dec 2018 17:55:03 GMT:  Kind = WARNING
+1 Dec 2018 17:55:03 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:55:38 GMT: diagnostics = javax.tools.DiagnosticCollector@f5e504
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@174db5c
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task01.java, C:\Users\USER\Desktop\Star lab\Taawab\task02.java, C:\Users\USER\Desktop\Star lab\Taawab\task04.java, C:\Users\USER\Desktop\Star lab\Taawab\task05.java, C:\Users\USER\Desktop\Star lab\Taawab\task06.java, C:\Users\USER\Desktop\Star lab\Taawab\task07.java, C:\Users\USER\Desktop\Star lab\Taawab\task08.java, C:\Users\USER\Desktop\Star lab\Taawab\task09.java, C:\Users\USER\Desktop\Star lab\Taawab\task10.java]
+1 Dec 2018 17:55:38 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1e02c50' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+1 Dec 2018 17:55:38 GMT: Compiler call returned
+1 Dec 2018 17:55:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@196ae1f
+1 Dec 2018 17:55:38 GMT:  Kind = WARNING
+1 Dec 2018 17:55:38 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task01.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:55:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@71ce75
+1 Dec 2018 17:55:38 GMT:  Kind = WARNING
+1 Dec 2018 17:55:38 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:55:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@509334
+1 Dec 2018 17:55:38 GMT:  Kind = WARNING
+1 Dec 2018 17:55:38 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task04.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:55:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18665ed
+1 Dec 2018 17:55:38 GMT:  Kind = WARNING
+1 Dec 2018 17:55:38 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task05.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:55:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c6d394
+1 Dec 2018 17:55:38 GMT:  Kind = WARNING
+1 Dec 2018 17:55:38 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task06.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:55:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1aaa57f
+1 Dec 2018 17:55:38 GMT:  Kind = WARNING
+1 Dec 2018 17:55:38 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task07.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:55:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1bd404d
+1 Dec 2018 17:55:38 GMT:  Kind = WARNING
+1 Dec 2018 17:55:38 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task08.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:55:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@116e05a
+1 Dec 2018 17:55:38 GMT:  Kind = WARNING
+1 Dec 2018 17:55:38 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task09.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:55:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@edcd1f
+1 Dec 2018 17:55:38 GMT:  Kind = WARNING
+1 Dec 2018 17:55:38 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task10.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:56:23 GMT: diagnostics = javax.tools.DiagnosticCollector@8a33f9
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@19766e7
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task01.java, C:\Users\USER\Desktop\Star lab\Taawab\task02.java, C:\Users\USER\Desktop\Star lab\Taawab\task04.java, C:\Users\USER\Desktop\Star lab\Taawab\task05.java, C:\Users\USER\Desktop\Star lab\Taawab\task06.java, C:\Users\USER\Desktop\Star lab\Taawab\task08.java, C:\Users\USER\Desktop\Star lab\Taawab\task09.java, C:\Users\USER\Desktop\Star lab\Taawab\task10.java, C:\Users\USER\Desktop\Star lab\Taawab\task07.java]
+1 Dec 2018 17:56:23 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@15ca7be' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+1 Dec 2018 17:56:23 GMT: Compiler call returned
+1 Dec 2018 17:56:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c10243
+1 Dec 2018 17:56:23 GMT:  Kind = WARNING
+1 Dec 2018 17:56:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task01.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:56:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fad368
+1 Dec 2018 17:56:23 GMT:  Kind = WARNING
+1 Dec 2018 17:56:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:56:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ebe2a6
+1 Dec 2018 17:56:23 GMT:  Kind = WARNING
+1 Dec 2018 17:56:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task04.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:56:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e11f2d
+1 Dec 2018 17:56:23 GMT:  Kind = WARNING
+1 Dec 2018 17:56:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task05.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:56:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@44d6a8
+1 Dec 2018 17:56:23 GMT:  Kind = WARNING
+1 Dec 2018 17:56:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task06.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:56:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ac2a5b
+1 Dec 2018 17:56:23 GMT:  Kind = WARNING
+1 Dec 2018 17:56:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task08.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:56:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@160191a
+1 Dec 2018 17:56:23 GMT:  Kind = WARNING
+1 Dec 2018 17:56:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task09.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:56:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1766f2c
+1 Dec 2018 17:56:23 GMT:  Kind = WARNING
+1 Dec 2018 17:56:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task10.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+1 Dec 2018 17:56:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d110bc
+1 Dec 2018 17:56:23 GMT:  Kind = WARNING
+1 Dec 2018 17:56:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task07.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+3 Dec 2018 11:25:43 GMT: Log 'EclipseCompiler.txt' opened: 3 Dec 2018 11:25:43 GMT with name C:\Users\USER\Desktop\Star lab\Taawab\EclipseCompiler.txt
+3 Dec 2018 11:26:07 GMT: diagnostics = javax.tools.DiagnosticCollector@19788f5
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@102a2b
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task12.java]
+3 Dec 2018 11:26:07 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1b819c4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+3 Dec 2018 11:26:08 GMT: Compiler call returned
+3 Dec 2018 11:26:08 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@640905
+3 Dec 2018 11:26:08 GMT:  Kind = WARNING
+3 Dec 2018 11:26:08 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task12.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+3 Dec 2018 13:55:36 GMT: Log 'EclipseCompiler.txt' opened: 3 Dec 2018 13:55:36 GMT with name C:\Users\USER\Desktop\Star lab\Taawab\EclipseCompiler.txt
+8 Dec 2018 17:03:36 GMT: Log 'EclipseCompiler.txt' opened: 8 Dec 2018 17:03:36 GMT with name C:\Users\USER\Desktop\Star lab\Taawab\EclipseCompiler.txt
+8 Dec 2018 17:09:20 GMT: diagnostics = javax.tools.DiagnosticCollector@e24c53
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@17ebf7e
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task01.java, C:\Users\USER\Desktop\Star lab\Taawab\task02.java, C:\Users\USER\Desktop\Star lab\Taawab\task03.java, C:\Users\USER\Desktop\Star lab\Taawab\task04.java, C:\Users\USER\Desktop\Star lab\Taawab\task05.java, C:\Users\USER\Desktop\Star lab\Taawab\task06.java, C:\Users\USER\Desktop\Star lab\Taawab\task07.java, C:\Users\USER\Desktop\Star lab\Taawab\task08.java, C:\Users\USER\Desktop\Star lab\Taawab\task09.java, C:\Users\USER\Desktop\Star lab\Taawab\task10.java, C:\Users\USER\Desktop\Star lab\Taawab\task12.java, C:\Users\USER\Desktop\Star lab\Taawab\task13.java, C:\Users\USER\Desktop\Star lab\Taawab\task14.java, C:\Users\USER\Desktop\Star lab\Taawab\task15.java, C:\Users\USER\Desktop\Star lab\Taawab\task16.java, C:\Users\USER\Desktop\Star lab\Taawab\task17.java, C:\Users\USER\Desktop\Star lab\Taawab\task18.java, C:\Users\USER\Desktop\Star lab\Taawab\task20.java, C:\Users\USER\Desktop\Star lab\Taawab\task21.java]
+8 Dec 2018 17:09:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@16098f7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+8 Dec 2018 17:09:21 GMT: Compiler call returned
+8 Dec 2018 17:09:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2280e8
+8 Dec 2018 17:09:21 GMT:  Kind = ERROR
+8 Dec 2018 17:09:21 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task14.java LineNo = 2 ColNo = 14 Msg = 'The public type task15 must be defined in its own file'
+8 Dec 2018 17:09:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17f1a2
+8 Dec 2018 17:09:21 GMT:  Kind = ERROR
+8 Dec 2018 17:09:21 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task15.java LineNo = 2 ColNo = 14 Msg = 'The type task15 is already defined'
+8 Dec 2018 17:09:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@805c8
+8 Dec 2018 17:09:21 GMT:  Kind = WARNING
+8 Dec 2018 17:09:21 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task01.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@605155
+8 Dec 2018 17:09:21 GMT:  Kind = WARNING
+8 Dec 2018 17:09:21 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b894bd
+8 Dec 2018 17:09:21 GMT:  Kind = WARNING
+8 Dec 2018 17:09:21 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task03.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@117e169
+8 Dec 2018 17:09:21 GMT:  Kind = WARNING
+8 Dec 2018 17:09:21 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task04.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c18ac6
+8 Dec 2018 17:09:21 GMT:  Kind = WARNING
+8 Dec 2018 17:09:21 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task05.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19d8f52
+8 Dec 2018 17:09:21 GMT:  Kind = WARNING
+8 Dec 2018 17:09:21 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task06.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@130ee60
+8 Dec 2018 17:09:21 GMT:  Kind = WARNING
+8 Dec 2018 17:09:21 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task07.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d24d46
+8 Dec 2018 17:09:21 GMT:  Kind = WARNING
+8 Dec 2018 17:09:21 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task08.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f86900
+8 Dec 2018 17:09:21 GMT:  Kind = WARNING
+8 Dec 2018 17:09:21 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task09.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f48fd2
+8 Dec 2018 17:09:21 GMT:  Kind = WARNING
+8 Dec 2018 17:09:21 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task10.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18721a2
+8 Dec 2018 17:09:21 GMT:  Kind = WARNING
+8 Dec 2018 17:09:21 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task12.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e4e169
+8 Dec 2018 17:09:21 GMT:  Kind = WARNING
+8 Dec 2018 17:09:21 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task13.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@163269c
+8 Dec 2018 17:09:21 GMT:  Kind = WARNING
+8 Dec 2018 17:09:21 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task16.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@52ab3d
+8 Dec 2018 17:09:21 GMT:  Kind = WARNING
+8 Dec 2018 17:09:21 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task17.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ce1fa4
+8 Dec 2018 17:09:21 GMT:  Kind = WARNING
+8 Dec 2018 17:09:21 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f254bd
+8 Dec 2018 17:09:21 GMT:  Kind = WARNING
+8 Dec 2018 17:09:21 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task20.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17fd259
+8 Dec 2018 17:09:21 GMT:  Kind = WARNING
+8 Dec 2018 17:09:21 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task21.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:29 GMT: diagnostics = javax.tools.DiagnosticCollector@549bee
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@6065fb
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task01.java, C:\Users\USER\Desktop\Star lab\Taawab\task02.java, C:\Users\USER\Desktop\Star lab\Taawab\task03.java, C:\Users\USER\Desktop\Star lab\Taawab\task04.java, C:\Users\USER\Desktop\Star lab\Taawab\task05.java, C:\Users\USER\Desktop\Star lab\Taawab\task06.java, C:\Users\USER\Desktop\Star lab\Taawab\task07.java, C:\Users\USER\Desktop\Star lab\Taawab\task08.java, C:\Users\USER\Desktop\Star lab\Taawab\task09.java, C:\Users\USER\Desktop\Star lab\Taawab\task10.java, C:\Users\USER\Desktop\Star lab\Taawab\task12.java, C:\Users\USER\Desktop\Star lab\Taawab\task13.java, C:\Users\USER\Desktop\Star lab\Taawab\task15.java, C:\Users\USER\Desktop\Star lab\Taawab\task16.java, C:\Users\USER\Desktop\Star lab\Taawab\task17.java, C:\Users\USER\Desktop\Star lab\Taawab\task18.java, C:\Users\USER\Desktop\Star lab\Taawab\task20.java, C:\Users\USER\Desktop\Star lab\Taawab\task21.java, C:\Users\USER\Desktop\Star lab\Taawab\task14.java]
+8 Dec 2018 17:09:29 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@ec30e0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+8 Dec 2018 17:09:29 GMT: Compiler call returned
+8 Dec 2018 17:09:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13e823b
+8 Dec 2018 17:09:29 GMT:  Kind = WARNING
+8 Dec 2018 17:09:29 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task01.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7b8c2b
+8 Dec 2018 17:09:29 GMT:  Kind = WARNING
+8 Dec 2018 17:09:29 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10d5e80
+8 Dec 2018 17:09:29 GMT:  Kind = WARNING
+8 Dec 2018 17:09:29 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task03.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4a3dc3
+8 Dec 2018 17:09:29 GMT:  Kind = WARNING
+8 Dec 2018 17:09:29 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task04.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1785beb
+8 Dec 2018 17:09:29 GMT:  Kind = WARNING
+8 Dec 2018 17:09:29 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task05.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16a85fb
+8 Dec 2018 17:09:29 GMT:  Kind = WARNING
+8 Dec 2018 17:09:29 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task06.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@be33c8
+8 Dec 2018 17:09:29 GMT:  Kind = WARNING
+8 Dec 2018 17:09:29 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task07.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d1a679
+8 Dec 2018 17:09:29 GMT:  Kind = WARNING
+8 Dec 2018 17:09:29 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task08.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@330fab
+8 Dec 2018 17:09:29 GMT:  Kind = WARNING
+8 Dec 2018 17:09:29 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task09.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ad128b
+8 Dec 2018 17:09:29 GMT:  Kind = WARNING
+8 Dec 2018 17:09:29 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task10.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@de5fc5
+8 Dec 2018 17:09:29 GMT:  Kind = WARNING
+8 Dec 2018 17:09:29 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task12.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d8c749
+8 Dec 2018 17:09:29 GMT:  Kind = WARNING
+8 Dec 2018 17:09:29 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task13.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@22d6ae
+8 Dec 2018 17:09:29 GMT:  Kind = WARNING
+8 Dec 2018 17:09:29 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task15.java LineNo = 6 ColNo = 12 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@184bbeb
+8 Dec 2018 17:09:29 GMT:  Kind = WARNING
+8 Dec 2018 17:09:29 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task16.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f2e129
+8 Dec 2018 17:09:29 GMT:  Kind = WARNING
+8 Dec 2018 17:09:29 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task17.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1968b51
+8 Dec 2018 17:09:29 GMT:  Kind = WARNING
+8 Dec 2018 17:09:29 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e3ad2b
+8 Dec 2018 17:09:29 GMT:  Kind = WARNING
+8 Dec 2018 17:09:29 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task20.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f61e1f
+8 Dec 2018 17:09:29 GMT:  Kind = WARNING
+8 Dec 2018 17:09:29 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task21.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:29 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a74e61
+8 Dec 2018 17:09:29 GMT:  Kind = WARNING
+8 Dec 2018 17:09:29 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task14.java LineNo = 6 ColNo = 12 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:33 GMT: diagnostics = javax.tools.DiagnosticCollector@135d784
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@bb31cc
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task01.java, C:\Users\USER\Desktop\Star lab\Taawab\task02.java, C:\Users\USER\Desktop\Star lab\Taawab\task03.java, C:\Users\USER\Desktop\Star lab\Taawab\task04.java, C:\Users\USER\Desktop\Star lab\Taawab\task05.java, C:\Users\USER\Desktop\Star lab\Taawab\task06.java, C:\Users\USER\Desktop\Star lab\Taawab\task07.java, C:\Users\USER\Desktop\Star lab\Taawab\task08.java, C:\Users\USER\Desktop\Star lab\Taawab\task09.java, C:\Users\USER\Desktop\Star lab\Taawab\task10.java, C:\Users\USER\Desktop\Star lab\Taawab\task12.java, C:\Users\USER\Desktop\Star lab\Taawab\task13.java, C:\Users\USER\Desktop\Star lab\Taawab\task15.java, C:\Users\USER\Desktop\Star lab\Taawab\task16.java, C:\Users\USER\Desktop\Star lab\Taawab\task17.java, C:\Users\USER\Desktop\Star lab\Taawab\task18.java, C:\Users\USER\Desktop\Star lab\Taawab\task20.java, C:\Users\USER\Desktop\Star lab\Taawab\task21.java, C:\Users\USER\Desktop\Star lab\Taawab\task14.java]
+8 Dec 2018 17:09:33 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@13c35c8' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+8 Dec 2018 17:09:33 GMT: Compiler call returned
+8 Dec 2018 17:09:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@efd527
+8 Dec 2018 17:09:33 GMT:  Kind = WARNING
+8 Dec 2018 17:09:33 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task01.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1bd2318
+8 Dec 2018 17:09:33 GMT:  Kind = WARNING
+8 Dec 2018 17:09:33 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19da175
+8 Dec 2018 17:09:33 GMT:  Kind = WARNING
+8 Dec 2018 17:09:33 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task03.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1454d65
+8 Dec 2018 17:09:33 GMT:  Kind = WARNING
+8 Dec 2018 17:09:33 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task04.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@147f007
+8 Dec 2018 17:09:33 GMT:  Kind = WARNING
+8 Dec 2018 17:09:33 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task05.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@192a8d4
+8 Dec 2018 17:09:33 GMT:  Kind = WARNING
+8 Dec 2018 17:09:33 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task06.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@104279a
+8 Dec 2018 17:09:33 GMT:  Kind = WARNING
+8 Dec 2018 17:09:33 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task07.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b57cba
+8 Dec 2018 17:09:33 GMT:  Kind = WARNING
+8 Dec 2018 17:09:33 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task08.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bc70a3
+8 Dec 2018 17:09:33 GMT:  Kind = WARNING
+8 Dec 2018 17:09:33 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task09.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7cb668
+8 Dec 2018 17:09:33 GMT:  Kind = WARNING
+8 Dec 2018 17:09:33 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task10.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e4618a
+8 Dec 2018 17:09:33 GMT:  Kind = WARNING
+8 Dec 2018 17:09:33 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task12.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1019100
+8 Dec 2018 17:09:33 GMT:  Kind = WARNING
+8 Dec 2018 17:09:33 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task13.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bdaeb
+8 Dec 2018 17:09:33 GMT:  Kind = WARNING
+8 Dec 2018 17:09:33 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task15.java LineNo = 6 ColNo = 12 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e5ff34
+8 Dec 2018 17:09:33 GMT:  Kind = WARNING
+8 Dec 2018 17:09:33 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task16.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4a3ef3
+8 Dec 2018 17:09:33 GMT:  Kind = WARNING
+8 Dec 2018 17:09:33 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task17.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11e36eb
+8 Dec 2018 17:09:33 GMT:  Kind = WARNING
+8 Dec 2018 17:09:33 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17e63a1
+8 Dec 2018 17:09:33 GMT:  Kind = WARNING
+8 Dec 2018 17:09:33 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task20.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18e3c65
+8 Dec 2018 17:09:33 GMT:  Kind = WARNING
+8 Dec 2018 17:09:33 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task21.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:09:33 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e62601
+8 Dec 2018 17:09:33 GMT:  Kind = WARNING
+8 Dec 2018 17:09:33 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task14.java LineNo = 6 ColNo = 12 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:22 GMT: diagnostics = javax.tools.DiagnosticCollector@132b782
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@172c81c
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task01.java, C:\Users\USER\Desktop\Star lab\Taawab\task02.java, C:\Users\USER\Desktop\Star lab\Taawab\task03.java, C:\Users\USER\Desktop\Star lab\Taawab\task04.java, C:\Users\USER\Desktop\Star lab\Taawab\task05.java, C:\Users\USER\Desktop\Star lab\Taawab\task06.java, C:\Users\USER\Desktop\Star lab\Taawab\task07.java, C:\Users\USER\Desktop\Star lab\Taawab\task08.java, C:\Users\USER\Desktop\Star lab\Taawab\task09.java, C:\Users\USER\Desktop\Star lab\Taawab\task10.java, C:\Users\USER\Desktop\Star lab\Taawab\task12.java, C:\Users\USER\Desktop\Star lab\Taawab\task13.java, C:\Users\USER\Desktop\Star lab\Taawab\task15.java, C:\Users\USER\Desktop\Star lab\Taawab\task16.java, C:\Users\USER\Desktop\Star lab\Taawab\task17.java, C:\Users\USER\Desktop\Star lab\Taawab\task18.java, C:\Users\USER\Desktop\Star lab\Taawab\task20.java, C:\Users\USER\Desktop\Star lab\Taawab\task21.java, C:\Users\USER\Desktop\Star lab\Taawab\task14.java]
+8 Dec 2018 17:21:22 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@182b471' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+8 Dec 2018 17:21:23 GMT: Compiler call returned
+8 Dec 2018 17:21:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@158b48a
+8 Dec 2018 17:21:23 GMT:  Kind = WARNING
+8 Dec 2018 17:21:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task01.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18d24f
+8 Dec 2018 17:21:23 GMT:  Kind = WARNING
+8 Dec 2018 17:21:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@107427d
+8 Dec 2018 17:21:23 GMT:  Kind = WARNING
+8 Dec 2018 17:21:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task03.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3521ee
+8 Dec 2018 17:21:23 GMT:  Kind = WARNING
+8 Dec 2018 17:21:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task04.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d133c6
+8 Dec 2018 17:21:23 GMT:  Kind = WARNING
+8 Dec 2018 17:21:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task05.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@811a79
+8 Dec 2018 17:21:23 GMT:  Kind = WARNING
+8 Dec 2018 17:21:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task06.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1bab6be
+8 Dec 2018 17:21:23 GMT:  Kind = WARNING
+8 Dec 2018 17:21:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task07.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7bcaf6
+8 Dec 2018 17:21:23 GMT:  Kind = WARNING
+8 Dec 2018 17:21:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task08.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f78ebc
+8 Dec 2018 17:21:23 GMT:  Kind = WARNING
+8 Dec 2018 17:21:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task09.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13d1ee9
+8 Dec 2018 17:21:23 GMT:  Kind = WARNING
+8 Dec 2018 17:21:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task10.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15854f6
+8 Dec 2018 17:21:23 GMT:  Kind = WARNING
+8 Dec 2018 17:21:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task12.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ee0cd1
+8 Dec 2018 17:21:23 GMT:  Kind = WARNING
+8 Dec 2018 17:21:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task13.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@57fdfe
+8 Dec 2018 17:21:23 GMT:  Kind = WARNING
+8 Dec 2018 17:21:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task15.java LineNo = 6 ColNo = 12 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16a7bcb
+8 Dec 2018 17:21:23 GMT:  Kind = WARNING
+8 Dec 2018 17:21:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task16.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2264b4
+8 Dec 2018 17:21:23 GMT:  Kind = WARNING
+8 Dec 2018 17:21:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task17.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1357a65
+8 Dec 2018 17:21:23 GMT:  Kind = WARNING
+8 Dec 2018 17:21:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e6cef0
+8 Dec 2018 17:21:23 GMT:  Kind = WARNING
+8 Dec 2018 17:21:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task20.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@225504
+8 Dec 2018 17:21:23 GMT:  Kind = WARNING
+8 Dec 2018 17:21:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task21.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:23 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a29470
+8 Dec 2018 17:21:23 GMT:  Kind = WARNING
+8 Dec 2018 17:21:23 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task14.java LineNo = 6 ColNo = 12 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:36 GMT: diagnostics = javax.tools.DiagnosticCollector@1617ea4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@326a58
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task01.java, C:\Users\USER\Desktop\Star lab\Taawab\task02.java, C:\Users\USER\Desktop\Star lab\Taawab\task03.java, C:\Users\USER\Desktop\Star lab\Taawab\task04.java, C:\Users\USER\Desktop\Star lab\Taawab\task05.java, C:\Users\USER\Desktop\Star lab\Taawab\task06.java, C:\Users\USER\Desktop\Star lab\Taawab\task07.java, C:\Users\USER\Desktop\Star lab\Taawab\task08.java, C:\Users\USER\Desktop\Star lab\Taawab\task09.java, C:\Users\USER\Desktop\Star lab\Taawab\task10.java, C:\Users\USER\Desktop\Star lab\Taawab\task13.java, C:\Users\USER\Desktop\Star lab\Taawab\task15.java, C:\Users\USER\Desktop\Star lab\Taawab\task16.java, C:\Users\USER\Desktop\Star lab\Taawab\task17.java, C:\Users\USER\Desktop\Star lab\Taawab\task18.java, C:\Users\USER\Desktop\Star lab\Taawab\task20.java, C:\Users\USER\Desktop\Star lab\Taawab\task21.java, C:\Users\USER\Desktop\Star lab\Taawab\task14.java, C:\Users\USER\Desktop\Star lab\Taawab\task12.java]
+8 Dec 2018 17:21:36 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1c0edce' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+8 Dec 2018 17:21:36 GMT: Compiler call returned
+8 Dec 2018 17:21:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d4d58e
+8 Dec 2018 17:21:36 GMT:  Kind = WARNING
+8 Dec 2018 17:21:36 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task01.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2ad228
+8 Dec 2018 17:21:36 GMT:  Kind = WARNING
+8 Dec 2018 17:21:36 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1132c72
+8 Dec 2018 17:21:36 GMT:  Kind = WARNING
+8 Dec 2018 17:21:36 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task03.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18d8532
+8 Dec 2018 17:21:36 GMT:  Kind = WARNING
+8 Dec 2018 17:21:36 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task04.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1674128
+8 Dec 2018 17:21:36 GMT:  Kind = WARNING
+8 Dec 2018 17:21:36 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task05.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18a63fe
+8 Dec 2018 17:21:36 GMT:  Kind = WARNING
+8 Dec 2018 17:21:36 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task06.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ecae81
+8 Dec 2018 17:21:36 GMT:  Kind = WARNING
+8 Dec 2018 17:21:36 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task07.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ed1cdb
+8 Dec 2018 17:21:36 GMT:  Kind = WARNING
+8 Dec 2018 17:21:36 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task08.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e2642f
+8 Dec 2018 17:21:36 GMT:  Kind = WARNING
+8 Dec 2018 17:21:36 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task09.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12979be
+8 Dec 2018 17:21:36 GMT:  Kind = WARNING
+8 Dec 2018 17:21:36 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task10.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1cf57bc
+8 Dec 2018 17:21:36 GMT:  Kind = WARNING
+8 Dec 2018 17:21:36 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task13.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@112875a
+8 Dec 2018 17:21:36 GMT:  Kind = WARNING
+8 Dec 2018 17:21:36 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task15.java LineNo = 6 ColNo = 12 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11d5d4b
+8 Dec 2018 17:21:36 GMT:  Kind = WARNING
+8 Dec 2018 17:21:36 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task16.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1332cdf
+8 Dec 2018 17:21:36 GMT:  Kind = WARNING
+8 Dec 2018 17:21:36 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task17.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c4ec32
+8 Dec 2018 17:21:36 GMT:  Kind = WARNING
+8 Dec 2018 17:21:36 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1518667
+8 Dec 2018 17:21:36 GMT:  Kind = WARNING
+8 Dec 2018 17:21:36 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task20.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a976c3
+8 Dec 2018 17:21:36 GMT:  Kind = WARNING
+8 Dec 2018 17:21:36 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task21.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4af4dd
+8 Dec 2018 17:21:36 GMT:  Kind = WARNING
+8 Dec 2018 17:21:36 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task14.java LineNo = 6 ColNo = 12 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:21:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@162385a
+8 Dec 2018 17:21:36 GMT:  Kind = WARNING
+8 Dec 2018 17:21:36 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task12.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:22:01 GMT: diagnostics = javax.tools.DiagnosticCollector@129528c
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1d1ba1e
+fileObjects = [C:\Users\USER\Desktop\Star lab\Taawab\task01.java, C:\Users\USER\Desktop\Star lab\Taawab\task02.java, C:\Users\USER\Desktop\Star lab\Taawab\task03.java, C:\Users\USER\Desktop\Star lab\Taawab\task04.java, C:\Users\USER\Desktop\Star lab\Taawab\task05.java, C:\Users\USER\Desktop\Star lab\Taawab\task06.java, C:\Users\USER\Desktop\Star lab\Taawab\task07.java, C:\Users\USER\Desktop\Star lab\Taawab\task08.java, C:\Users\USER\Desktop\Star lab\Taawab\task09.java, C:\Users\USER\Desktop\Star lab\Taawab\task10.java, C:\Users\USER\Desktop\Star lab\Taawab\task13.java, C:\Users\USER\Desktop\Star lab\Taawab\task15.java, C:\Users\USER\Desktop\Star lab\Taawab\task16.java, C:\Users\USER\Desktop\Star lab\Taawab\task17.java, C:\Users\USER\Desktop\Star lab\Taawab\task18.java, C:\Users\USER\Desktop\Star lab\Taawab\task20.java, C:\Users\USER\Desktop\Star lab\Taawab\task21.java, C:\Users\USER\Desktop\Star lab\Taawab\task14.java, C:\Users\USER\Desktop\Star lab\Taawab\task12.java]
+8 Dec 2018 17:22:01 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@173a9b7' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+8 Dec 2018 17:22:01 GMT: Compiler call returned
+8 Dec 2018 17:22:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16730ec
+8 Dec 2018 17:22:01 GMT:  Kind = WARNING
+8 Dec 2018 17:22:01 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task01.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:22:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2c479f
+8 Dec 2018 17:22:01 GMT:  Kind = WARNING
+8 Dec 2018 17:22:01 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:22:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7bddfe
+8 Dec 2018 17:22:01 GMT:  Kind = WARNING
+8 Dec 2018 17:22:01 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task03.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:22:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@aa368d
+8 Dec 2018 17:22:01 GMT:  Kind = WARNING
+8 Dec 2018 17:22:01 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task04.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:22:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b485e4
+8 Dec 2018 17:22:01 GMT:  Kind = WARNING
+8 Dec 2018 17:22:01 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task05.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:22:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2236d2
+8 Dec 2018 17:22:01 GMT:  Kind = WARNING
+8 Dec 2018 17:22:01 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task06.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:22:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b083c5
+8 Dec 2018 17:22:01 GMT:  Kind = WARNING
+8 Dec 2018 17:22:01 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task07.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:22:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e1cf00
+8 Dec 2018 17:22:01 GMT:  Kind = WARNING
+8 Dec 2018 17:22:01 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task08.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:22:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13ef4bd
+8 Dec 2018 17:22:01 GMT:  Kind = WARNING
+8 Dec 2018 17:22:01 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task09.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:22:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ddcbae
+8 Dec 2018 17:22:01 GMT:  Kind = WARNING
+8 Dec 2018 17:22:01 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task10.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:22:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@97cd5b
+8 Dec 2018 17:22:01 GMT:  Kind = WARNING
+8 Dec 2018 17:22:01 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task13.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:22:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12f8486
+8 Dec 2018 17:22:01 GMT:  Kind = WARNING
+8 Dec 2018 17:22:01 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task15.java LineNo = 6 ColNo = 12 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:22:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1281802
+8 Dec 2018 17:22:01 GMT:  Kind = WARNING
+8 Dec 2018 17:22:01 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task16.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:22:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15a2bb2
+8 Dec 2018 17:22:01 GMT:  Kind = WARNING
+8 Dec 2018 17:22:01 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task17.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:22:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e1d517
+8 Dec 2018 17:22:01 GMT:  Kind = WARNING
+8 Dec 2018 17:22:01 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task18.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:22:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4f7419
+8 Dec 2018 17:22:01 GMT:  Kind = WARNING
+8 Dec 2018 17:22:01 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task20.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:22:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a29e9a
+8 Dec 2018 17:22:01 GMT:  Kind = WARNING
+8 Dec 2018 17:22:01 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task21.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:22:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c328a7
+8 Dec 2018 17:22:01 GMT:  Kind = WARNING
+8 Dec 2018 17:22:01 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task14.java LineNo = 6 ColNo = 12 Msg = 'Resource leak: 'sc' is never closed'
+8 Dec 2018 17:22:01 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@750a25
+8 Dec 2018 17:22:01 GMT:  Kind = WARNING
+8 Dec 2018 17:22:01 GMT: Name = C:\Users\USER\Desktop\Star lab\Taawab\task12.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+9 Dec 2018 13:33:57 GMT: Log 'EclipseCompiler.txt' opened: 9 Dec 2018 13:33:57 GMT with name C:\Users\USER\Desktop\Star lab\Taawab\EclipseCompiler.txt
+16 Dec 2018 13:01:49 GMT: Log 'EclipseCompiler.txt' opened: 16 Dec 2018 13:01:49 GMT with name D:\Star lab\Taawab\EclipseCompiler.txt
+21 Jan 2019 14:47:48 GMT: Log 'EclipseCompiler.txt' opened: 21 Jan 2019 14:47:48 GMT with name D:\CSE 110 ASSIGNMENT\Star lab\Taawab\EclipseCompiler.txt
+21 Jan 2019 14:47:48 GMT: Log 'EclipseCompiler.txt' opened: 21 Jan 2019 14:47:48 GMT with name D:\CSE 110 ASSIGNMENT\Star lab\Taawab\EclipseCompiler.txt
+21 Jan 2019 14:50:09 GMT: diagnostics = javax.tools.DiagnosticCollector@1944727
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@4319a1
+fileObjects = [D:\CSE 110 ASSIGNMENT\Star lab\Taawab\task01.java]
+21 Jan 2019 14:50:09 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1a6ec5a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\CSE 110 ASSIGNMENT\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+21 Jan 2019 14:50:09 GMT: Compiler call returned
+21 Jan 2019 14:50:09 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f87f91
+21 Jan 2019 14:50:09 GMT:  Kind = WARNING
+21 Jan 2019 14:50:09 GMT: Name = D:\CSE 110 ASSIGNMENT\Star lab\Taawab\task01.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Jan 2019 14:50:24 GMT: diagnostics = javax.tools.DiagnosticCollector@15ae0b7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@16c69ac
+fileObjects = [D:\CSE 110 ASSIGNMENT\Star lab\Taawab\task01.java, D:\CSE 110 ASSIGNMENT\Star lab\Taawab\task02.java]
+21 Jan 2019 14:50:24 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1384b3a' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\CSE 110 ASSIGNMENT\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+21 Jan 2019 14:50:24 GMT: Compiler call returned
+21 Jan 2019 14:50:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1bc68a4
+21 Jan 2019 14:50:24 GMT:  Kind = WARNING
+21 Jan 2019 14:50:24 GMT: Name = D:\CSE 110 ASSIGNMENT\Star lab\Taawab\task01.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Jan 2019 14:50:24 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4ad2a2
+21 Jan 2019 14:50:24 GMT:  Kind = WARNING
+21 Jan 2019 14:50:24 GMT: Name = D:\CSE 110 ASSIGNMENT\Star lab\Taawab\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Jan 2019 14:52:09 GMT: diagnostics = javax.tools.DiagnosticCollector@a26532
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1eed47a
+fileObjects = [D:\CSE 110 ASSIGNMENT\Star lab\Taawab\task02.java, D:\CSE 111 lab code\Lab 1 star lab ID-18101011\task01.java, D:\CSE 110 ASSIGNMENT\Star lab\Taawab\task01.java]
+21 Jan 2019 14:52:09 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@192270b' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\CSE 110 ASSIGNMENT\Star lab\Taawab;D:\CSE 111 lab code\Lab 1 star lab ID-18101011;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+21 Jan 2019 14:52:10 GMT: Compiler call returned
+21 Jan 2019 14:52:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@cedcb
+21 Jan 2019 14:52:10 GMT:  Kind = ERROR
+21 Jan 2019 14:52:10 GMT: Name = D:\CSE 110 ASSIGNMENT\Star lab\Taawab\task01.java LineNo = 2 ColNo = 14 Msg = 'The type task01 is already defined'
+21 Jan 2019 14:52:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c84c2c
+21 Jan 2019 14:52:10 GMT:  Kind = WARNING
+21 Jan 2019 14:52:10 GMT: Name = D:\CSE 110 ASSIGNMENT\Star lab\Taawab\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Jan 2019 14:52:10 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2faad7
+21 Jan 2019 14:52:10 GMT:  Kind = WARNING
+21 Jan 2019 14:52:10 GMT: Name = D:\CSE 111 lab code\Lab 1 star lab ID-18101011\task01.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Jan 2019 14:52:20 GMT: diagnostics = javax.tools.DiagnosticCollector@122d4dd
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@18a7f82
+fileObjects = [D:\CSE 110 ASSIGNMENT\Star lab\Taawab\task02.java, D:\CSE 110 ASSIGNMENT\Star lab\Taawab\task01.java]
+21 Jan 2019 14:52:20 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1218c82' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\CSE 110 ASSIGNMENT\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+21 Jan 2019 14:52:21 GMT: Compiler call returned
+21 Jan 2019 14:52:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1437b42
+21 Jan 2019 14:52:21 GMT:  Kind = WARNING
+21 Jan 2019 14:52:21 GMT: Name = D:\CSE 110 ASSIGNMENT\Star lab\Taawab\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Jan 2019 14:52:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@920438
+21 Jan 2019 14:52:21 GMT:  Kind = WARNING
+21 Jan 2019 14:52:21 GMT: Name = D:\CSE 110 ASSIGNMENT\Star lab\Taawab\task01.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'
+21 Jan 2019 14:53:38 GMT: Log 'EclipseCompiler.txt' opened: 21 Jan 2019 14:53:38 GMT with name D:\CSE 110 ASSIGNMENT\Star lab\Taawab\EclipseCompiler.txt
+21 Jan 2019 14:54:40 GMT: diagnostics = javax.tools.DiagnosticCollector@1e4d4a3
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1252e3a
+fileObjects = [D:\CSE 111 lab code\Lab 1 star lab ID-18101011\task02.java, D:\CSE 110 ASSIGNMENT\Star lab\Taawab\task02.java]
+21 Jan 2019 14:54:40 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1a84790' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, D:\CSE 111 lab code\Lab 1 star lab ID-18101011;D:\CSE 110 ASSIGNMENT\Star lab\Taawab;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+21 Jan 2019 14:54:41 GMT: Compiler call returned
+21 Jan 2019 14:54:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18c609
+21 Jan 2019 14:54:41 GMT:  Kind = ERROR
+21 Jan 2019 14:54:41 GMT: Name = D:\CSE 110 ASSIGNMENT\Star lab\Taawab\task02.java LineNo = 2 ColNo = 14 Msg = 'The type task02 is already defined'
+21 Jan 2019 14:54:41 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@beba4f
+21 Jan 2019 14:54:41 GMT:  Kind = WARNING
+21 Jan 2019 14:54:41 GMT: Name = D:\CSE 111 lab code\Lab 1 star lab ID-18101011\task02.java LineNo = 6 ColNo = 13 Msg = 'Resource leak: 'sc' is never closed'

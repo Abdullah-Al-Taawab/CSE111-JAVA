@@ -1,0 +1,818 @@
+5 Feb 2019 16:04:43 GMT: Log 'EclipseCompiler.txt' opened: 5 Feb 2019 16:04:43 GMT with name C:\Users\USER\Desktop\Lab 4 only code\EclipseCompiler.txt
+5 Feb 2019 16:04:43 GMT: Log 'EclipseCompiler.txt' opened: 5 Feb 2019 16:04:43 GMT with name C:\Users\USER\Desktop\Lab 4 only code\EclipseCompiler.txt
+5 Feb 2019 16:09:59 GMT: Log 'EclipseCompiler.txt' opened: 5 Feb 2019 16:09:59 GMT with name C:\Users\USER\Desktop\Lab 4 only code\EclipseCompiler.txt
+5 Feb 2019 16:10:09 GMT: Log 'EclipseCompiler.txt' opened: 5 Feb 2019 16:10:09 GMT with name C:\Users\USER\Desktop\Lab 4 only code\EclipseCompiler.txt
+5 Feb 2019 16:10:21 GMT: Log 'EclipseCompiler.txt' opened: 5 Feb 2019 16:10:21 GMT with name C:\Users\USER\Desktop\Lab 4 only code\EclipseCompiler.txt
+5 Feb 2019 16:41:31 GMT: diagnostics = javax.tools.DiagnosticCollector@c9f256
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@152b98
+fileObjects = [C:\Users\USER\Desktop\Lab 4 only code\Bankaccount.java, C:\Users\USER\Desktop\Lab 4 only code\main.java]
+5 Feb 2019 16:41:31 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1a8d9c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Lab 4 only code;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+5 Feb 2019 16:41:32 GMT: Compiler call returned
+5 Feb 2019 16:41:32 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@44082d
+5 Feb 2019 16:41:32 GMT:  Kind = WARNING
+5 Feb 2019 16:41:32 GMT: Name = C:\Users\USER\Desktop\Lab 4 only code\main.java LineNo = 3 ColNo = 22 Msg = 'This method has a constructor name'
+5 Feb 2019 16:41:45 GMT: diagnostics = javax.tools.DiagnosticCollector@1fc8b5d
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1899cce
+fileObjects = [C:\Users\USER\Desktop\Lab 4 only code\Bankaccount.java, C:\Users\USER\Desktop\Lab 4 only code\main.java]
+5 Feb 2019 16:41:45 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@12e98e0' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Lab 4 only code;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+5 Feb 2019 16:41:46 GMT: Compiler call returned
+5 Feb 2019 16:41:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c6467b
+5 Feb 2019 16:41:46 GMT:  Kind = WARNING
+5 Feb 2019 16:41:46 GMT: Name = C:\Users\USER\Desktop\Lab 4 only code\main.java LineNo = 3 ColNo = 22 Msg = 'This method has a constructor name'
+5 Feb 2019 16:56:03 GMT: Log 'EclipseCompiler.txt' opened: 5 Feb 2019 16:56:03 GMT with name C:\Users\USER\Desktop\Lab 4 only code\EclipseCompiler.txt
+5 Feb 2019 18:55:42 GMT: diagnostics = javax.tools.DiagnosticCollector@17a542
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1486ac9
+fileObjects = [C:\Users\USER\Desktop\class ass 2\StudentDriver.java, C:\Users\USER\Desktop\class ass 2\studentclass.java]
+5 Feb 2019 18:55:42 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@18823fe' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\class ass 2;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+5 Feb 2019 18:55:43 GMT: Compiler call returned
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@113ad1b
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 8 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1efff4a
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 9 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@166ff19
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 10 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9312e4
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 11 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11de17b
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 12 ColNo = 8 Msg = 'The method nameBoshao(java.lang.String) is undefined for the type Student'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@106517d
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 13 ColNo = 8 Msg = 'The method addressBoshao(java.lang.String) is undefined for the type Student'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12cf373
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 14 ColNo = 8 Msg = 'The method idBoshao(java.lang.String) is undefined for the type Student'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@192d800
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 15 ColNo = 8 Msg = 'The method cgpaBoshao(double) is undefined for the type Student'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13cfdb0
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 16 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@dad493
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 17 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e71810
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 18 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1749314
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 19 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ad2637
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 20 ColNo = 19 Msg = 'The constructor Student(java.lang.String, java.lang.String, java.lang.String, double) is undefined'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1810c1d
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 22 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@190a125
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 23 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@176a70
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 24 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2571db
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 25 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15978e6
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 28 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e67721
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 29 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d1c207
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 30 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@137d5af
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 31 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1991f67
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 32 ColNo = 8 Msg = 'The method standUp() is undefined for the type Student'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@128254a
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 33 ColNo = 8 Msg = 'The method standUp() is undefined for the type Student'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c91912
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 34 ColNo = 23 Msg = 'The method tellMeYourName() is undefined for the type Student'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e2da9
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 35 ColNo = 23 Msg = 'The method tellMeYourName() is undefined for the type Student'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17760e8
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 36 ColNo = 8 Msg = 'The method call(java.lang.String) is undefined for the type Student'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1091cb9
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 37 ColNo = 8 Msg = 'The method call(java.lang.String) is undefined for the type Student'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5d90c3
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\studentclass.java LineNo = 32 ColNo = 14 Msg = 'Syntax error, insert ":: IdentifierOrNew" to complete Expression'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10f9844
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\studentclass.java LineNo = 32 ColNo = 14 Msg = 'Syntax error, insert ";" to complete BlockStatements'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19fc0ed
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\studentclass.java LineNo = 42 ColNo = 24 Msg = 'Syntax error on token "(", ; expected'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1cecf3
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\studentclass.java LineNo = 42 ColNo = 33 Msg = 'Syntax error on token ")", ; expected'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@59a63b
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\studentclass.java LineNo = 45 ColNo = 21 Msg = 'Syntax error on token "(", ; expected'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1abd98c
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\studentclass.java LineNo = 45 ColNo = 30 Msg = 'Syntax error on token ")", ; expected'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6ee47c
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\studentclass.java LineNo = 22 ColNo = 12 Msg = 'Type mismatch: cannot convert from java.lang.Double to java.lang.String'
+5 Feb 2019 18:55:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13eedf6
+5 Feb 2019 18:55:43 GMT:  Kind = ERROR
+5 Feb 2019 18:55:43 GMT: Name = C:\Users\USER\Desktop\class ass 2\studentclass.java LineNo = 35 ColNo = 11 Msg = 'Type mismatch: cannot convert from java.lang.String to java.lang.Double'
+5 Feb 2019 18:56:21 GMT: diagnostics = javax.tools.DiagnosticCollector@ca3229
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@1eee9b1
+fileObjects = [C:\Users\USER\Desktop\class ass 2\StudentDriver.java, C:\Users\USER\Desktop\class ass 2\studentclass.java]
+5 Feb 2019 18:56:21 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@146edca' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\class ass 2;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+5 Feb 2019 18:56:21 GMT: Compiler call returned
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@696c9a
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 8 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3c6855
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 9 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@369c64
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 10 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b06b32
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 11 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ecaa2
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 12 ColNo = 8 Msg = 'The method nameBoshao(java.lang.String) is undefined for the type Student'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18d70f4
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 13 ColNo = 8 Msg = 'The method addressBoshao(java.lang.String) is undefined for the type Student'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@160005d
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 14 ColNo = 8 Msg = 'The method idBoshao(java.lang.String) is undefined for the type Student'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18f0cf8
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 15 ColNo = 8 Msg = 'The method cgpaBoshao(double) is undefined for the type Student'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1148331
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 16 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1be5db7
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 17 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@2fc7b5
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 18 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14aed44
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 19 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c6f417
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 20 ColNo = 19 Msg = 'The constructor Student(java.lang.String, java.lang.String, java.lang.String, double) is undefined'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e24d1d
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 22 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f8317b
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 23 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@174dc4d
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 24 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5fe338
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 25 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1cad00b
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 28 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17d55e0
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 29 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e470f6
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 30 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b913f1
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 31 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5ed405
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 32 ColNo = 8 Msg = 'The method standUp() is undefined for the type Student'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@159437b
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 33 ColNo = 8 Msg = 'The method standUp() is undefined for the type Student'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@29ea26
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 34 ColNo = 23 Msg = 'The method tellMeYourName() is undefined for the type Student'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ec5f49
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 35 ColNo = 23 Msg = 'The method tellMeYourName() is undefined for the type Student'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16249cd
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 36 ColNo = 8 Msg = 'The method call(java.lang.String) is undefined for the type Student'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b98a41
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 37 ColNo = 8 Msg = 'The method call(java.lang.String) is undefined for the type Student'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ce21ea
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\studentclass.java LineNo = 42 ColNo = 24 Msg = 'Syntax error on token "(", ; expected'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19280d
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\studentclass.java LineNo = 42 ColNo = 33 Msg = 'Syntax error on token ")", ; expected'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f43562
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\studentclass.java LineNo = 45 ColNo = 21 Msg = 'Syntax error on token "(", ; expected'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@199541f
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\studentclass.java LineNo = 45 ColNo = 30 Msg = 'Syntax error on token ")", ; expected'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16cfcf7
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\studentclass.java LineNo = 22 ColNo = 12 Msg = 'Type mismatch: cannot convert from java.lang.Double to java.lang.String'
+5 Feb 2019 18:56:21 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@78fb57
+5 Feb 2019 18:56:21 GMT:  Kind = ERROR
+5 Feb 2019 18:56:21 GMT: Name = C:\Users\USER\Desktop\class ass 2\studentclass.java LineNo = 35 ColNo = 11 Msg = 'Type mismatch: cannot convert from java.lang.String to java.lang.Double'
+5 Feb 2019 18:56:46 GMT: diagnostics = javax.tools.DiagnosticCollector@987e2b
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@2387b7
+fileObjects = [C:\Users\USER\Desktop\class ass 2\studentclass.java, C:\Users\USER\Desktop\class ass 2\StudentDriver.java]
+5 Feb 2019 18:56:46 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@78f3ac' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\class ass 2;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+5 Feb 2019 18:56:46 GMT: Compiler call returned
+5 Feb 2019 18:56:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c03cf8
+5 Feb 2019 18:56:46 GMT:  Kind = ERROR
+5 Feb 2019 18:56:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\studentclass.java LineNo = 42 ColNo = 24 Msg = 'Syntax error on token "(", ; expected'
+5 Feb 2019 18:56:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b4319a
+5 Feb 2019 18:56:46 GMT:  Kind = ERROR
+5 Feb 2019 18:56:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\studentclass.java LineNo = 42 ColNo = 33 Msg = 'Syntax error on token ")", ; expected'
+5 Feb 2019 18:56:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3c4ede
+5 Feb 2019 18:56:46 GMT:  Kind = ERROR
+5 Feb 2019 18:56:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\studentclass.java LineNo = 45 ColNo = 21 Msg = 'Syntax error on token "(", ; expected'
+5 Feb 2019 18:56:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1b17a3c
+5 Feb 2019 18:56:46 GMT:  Kind = ERROR
+5 Feb 2019 18:56:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\studentclass.java LineNo = 45 ColNo = 30 Msg = 'Syntax error on token ")", ; expected'
+5 Feb 2019 18:56:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16abcce
+5 Feb 2019 18:56:46 GMT:  Kind = ERROR
+5 Feb 2019 18:56:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\studentclass.java LineNo = 22 ColNo = 12 Msg = 'Type mismatch: cannot convert from java.lang.Double to java.lang.String'
+5 Feb 2019 18:56:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@17667d8
+5 Feb 2019 18:56:46 GMT:  Kind = ERROR
+5 Feb 2019 18:56:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\studentclass.java LineNo = 35 ColNo = 11 Msg = 'Type mismatch: cannot convert from java.lang.String to java.lang.Double'
+5 Feb 2019 18:56:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1629556
+5 Feb 2019 18:56:46 GMT:  Kind = ERROR
+5 Feb 2019 18:56:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 8 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 18:56:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16662dc
+5 Feb 2019 18:56:46 GMT:  Kind = ERROR
+5 Feb 2019 18:56:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 9 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 18:56:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ac2372
+5 Feb 2019 18:56:46 GMT:  Kind = ERROR
+5 Feb 2019 18:56:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 10 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 18:56:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@160c578
+5 Feb 2019 18:56:46 GMT:  Kind = ERROR
+5 Feb 2019 18:56:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 11 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 18:56:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d531e7
+5 Feb 2019 18:56:46 GMT:  Kind = ERROR
+5 Feb 2019 18:56:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 12 ColNo = 8 Msg = 'The method nameBoshao(java.lang.String) is undefined for the type Student'
+5 Feb 2019 18:56:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9bd5e3
+5 Feb 2019 18:56:46 GMT:  Kind = ERROR
+5 Feb 2019 18:56:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 13 ColNo = 8 Msg = 'The method addressBoshao(java.lang.String) is undefined for the type Student'
+5 Feb 2019 18:56:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6c0b1
+5 Feb 2019 18:56:46 GMT:  Kind = ERROR
+5 Feb 2019 18:56:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 14 ColNo = 8 Msg = 'The method idBoshao(java.lang.String) is undefined for the type Student'
+5 Feb 2019 18:56:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1849a0c
+5 Feb 2019 18:56:46 GMT:  Kind = ERROR
+5 Feb 2019 18:56:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 15 ColNo = 8 Msg = 'The method cgpaBoshao(double) is undefined for the type Student'
+5 Feb 2019 18:56:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c5c412
+5 Feb 2019 18:56:46 GMT:  Kind = ERROR
+5 Feb 2019 18:56:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 16 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 18:56:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a333a4
+5 Feb 2019 18:56:46 GMT:  Kind = ERROR
+5 Feb 2019 18:56:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 17 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 18:56:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@307c89
+5 Feb 2019 18:56:46 GMT:  Kind = ERROR
+5 Feb 2019 18:56:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 18 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 18:56:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12fc4b9
+5 Feb 2019 18:56:46 GMT:  Kind = ERROR
+5 Feb 2019 18:56:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 19 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 18:56:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1906a5a
+5 Feb 2019 18:56:46 GMT:  Kind = ERROR
+5 Feb 2019 18:56:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 20 ColNo = 19 Msg = 'The constructor Student(java.lang.String, java.lang.String, java.lang.String, double) is undefined'
+5 Feb 2019 18:56:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@91531f
+5 Feb 2019 18:56:46 GMT:  Kind = ERROR
+5 Feb 2019 18:56:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 22 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 18:56:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@170a0b0
+5 Feb 2019 18:56:46 GMT:  Kind = ERROR
+5 Feb 2019 18:56:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 23 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 18:56:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f9b3ab
+5 Feb 2019 18:56:46 GMT:  Kind = ERROR
+5 Feb 2019 18:56:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 24 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 18:56:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fce94
+5 Feb 2019 18:56:46 GMT:  Kind = ERROR
+5 Feb 2019 18:56:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 25 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 18:56:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@46d63
+5 Feb 2019 18:56:46 GMT:  Kind = ERROR
+5 Feb 2019 18:56:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 28 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 18:56:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@593bf3
+5 Feb 2019 18:56:46 GMT:  Kind = ERROR
+5 Feb 2019 18:56:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 29 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 18:56:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1deb2b8
+5 Feb 2019 18:56:46 GMT:  Kind = ERROR
+5 Feb 2019 18:56:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 30 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 18:56:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@141ad39
+5 Feb 2019 18:56:46 GMT:  Kind = ERROR
+5 Feb 2019 18:56:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 31 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 18:56:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15b3c7
+5 Feb 2019 18:56:46 GMT:  Kind = ERROR
+5 Feb 2019 18:56:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 32 ColNo = 8 Msg = 'The method standUp() is undefined for the type Student'
+5 Feb 2019 18:56:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@16a9515
+5 Feb 2019 18:56:46 GMT:  Kind = ERROR
+5 Feb 2019 18:56:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 33 ColNo = 8 Msg = 'The method standUp() is undefined for the type Student'
+5 Feb 2019 18:56:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@107b072
+5 Feb 2019 18:56:46 GMT:  Kind = ERROR
+5 Feb 2019 18:56:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 36 ColNo = 8 Msg = 'The method call(java.lang.String) is undefined for the type Student'
+5 Feb 2019 18:56:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@105e54e
+5 Feb 2019 18:56:46 GMT:  Kind = ERROR
+5 Feb 2019 18:56:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 37 ColNo = 8 Msg = 'The method call(java.lang.String) is undefined for the type Student'
+5 Feb 2019 18:57:36 GMT: diagnostics = javax.tools.DiagnosticCollector@121fa68
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@171dbea
+fileObjects = [C:\Users\USER\Desktop\class ass 2\StudentDriver.java, C:\Users\USER\Desktop\class ass 2\studentclass.java]
+5 Feb 2019 18:57:36 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1db55ab' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\class ass 2;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+5 Feb 2019 18:57:36 GMT: Compiler call returned
+5 Feb 2019 18:57:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@eb137c
+5 Feb 2019 18:57:36 GMT:  Kind = ERROR
+5 Feb 2019 18:57:36 GMT: Name = C:\Users\USER\Desktop\class ass 2\studentclass.java LineNo = 50 ColNo = 1 Msg = 'Syntax error on token "}", delete this token'
+5 Feb 2019 18:57:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@172ad06
+5 Feb 2019 18:57:36 GMT:  Kind = ERROR
+5 Feb 2019 18:57:36 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 8 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 18:57:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@15bf0ef
+5 Feb 2019 18:57:36 GMT:  Kind = ERROR
+5 Feb 2019 18:57:36 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 9 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 18:57:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ee934f
+5 Feb 2019 18:57:36 GMT:  Kind = ERROR
+5 Feb 2019 18:57:36 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 10 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 18:57:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@aa1c9d
+5 Feb 2019 18:57:36 GMT:  Kind = ERROR
+5 Feb 2019 18:57:36 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 11 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 18:57:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ca91d3
+5 Feb 2019 18:57:36 GMT:  Kind = ERROR
+5 Feb 2019 18:57:36 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 12 ColNo = 8 Msg = 'The method nameBoshao(java.lang.String) is undefined for the type Student'
+5 Feb 2019 18:57:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@80c02d
+5 Feb 2019 18:57:36 GMT:  Kind = ERROR
+5 Feb 2019 18:57:36 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 13 ColNo = 8 Msg = 'The method addressBoshao(java.lang.String) is undefined for the type Student'
+5 Feb 2019 18:57:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e248d9
+5 Feb 2019 18:57:36 GMT:  Kind = ERROR
+5 Feb 2019 18:57:36 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 14 ColNo = 8 Msg = 'The method idBoshao(java.lang.String) is undefined for the type Student'
+5 Feb 2019 18:57:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@aae72c
+5 Feb 2019 18:57:36 GMT:  Kind = ERROR
+5 Feb 2019 18:57:36 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 15 ColNo = 8 Msg = 'The method cgpaBoshao(double) is undefined for the type Student'
+5 Feb 2019 18:57:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@96bfa3
+5 Feb 2019 18:57:36 GMT:  Kind = ERROR
+5 Feb 2019 18:57:36 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 16 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 18:57:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ab8c74
+5 Feb 2019 18:57:36 GMT:  Kind = ERROR
+5 Feb 2019 18:57:36 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 17 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 18:57:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b1a5f8
+5 Feb 2019 18:57:36 GMT:  Kind = ERROR
+5 Feb 2019 18:57:36 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 18 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 18:57:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1dfab45
+5 Feb 2019 18:57:36 GMT:  Kind = ERROR
+5 Feb 2019 18:57:36 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 19 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 18:57:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d362fa
+5 Feb 2019 18:57:36 GMT:  Kind = ERROR
+5 Feb 2019 18:57:36 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 20 ColNo = 19 Msg = 'The constructor Student(java.lang.String, java.lang.String, java.lang.String, double) is undefined'
+5 Feb 2019 18:57:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@298ff8
+5 Feb 2019 18:57:36 GMT:  Kind = ERROR
+5 Feb 2019 18:57:36 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 22 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 18:57:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1ea7b60
+5 Feb 2019 18:57:36 GMT:  Kind = ERROR
+5 Feb 2019 18:57:36 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 23 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 18:57:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1bf791b
+5 Feb 2019 18:57:36 GMT:  Kind = ERROR
+5 Feb 2019 18:57:36 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 24 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 18:57:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@aa11e4
+5 Feb 2019 18:57:36 GMT:  Kind = ERROR
+5 Feb 2019 18:57:36 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 25 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 18:57:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c80cc6
+5 Feb 2019 18:57:36 GMT:  Kind = ERROR
+5 Feb 2019 18:57:36 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 28 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 18:57:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8f44c4
+5 Feb 2019 18:57:36 GMT:  Kind = ERROR
+5 Feb 2019 18:57:36 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 29 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 18:57:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f69eaf
+5 Feb 2019 18:57:36 GMT:  Kind = ERROR
+5 Feb 2019 18:57:36 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 30 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 18:57:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a78764
+5 Feb 2019 18:57:36 GMT:  Kind = ERROR
+5 Feb 2019 18:57:36 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 31 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 18:57:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@59160a
+5 Feb 2019 18:57:36 GMT:  Kind = ERROR
+5 Feb 2019 18:57:36 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 32 ColNo = 8 Msg = 'The method standUp() is undefined for the type Student'
+5 Feb 2019 18:57:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ecd221
+5 Feb 2019 18:57:36 GMT:  Kind = ERROR
+5 Feb 2019 18:57:36 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 33 ColNo = 8 Msg = 'The method standUp() is undefined for the type Student'
+5 Feb 2019 18:57:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@333d75
+5 Feb 2019 18:57:36 GMT:  Kind = ERROR
+5 Feb 2019 18:57:36 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 36 ColNo = 8 Msg = 'The method call(java.lang.String) is undefined for the type Student'
+5 Feb 2019 18:57:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8f1730
+5 Feb 2019 18:57:36 GMT:  Kind = ERROR
+5 Feb 2019 18:57:36 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 37 ColNo = 8 Msg = 'The method call(java.lang.String) is undefined for the type Student'
+5 Feb 2019 18:57:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@e2aded
+5 Feb 2019 18:57:36 GMT:  Kind = ERROR
+5 Feb 2019 18:57:36 GMT: Name = C:\Users\USER\Desktop\class ass 2\studentclass.java LineNo = 22 ColNo = 12 Msg = 'Type mismatch: cannot convert from java.lang.Double to java.lang.String'
+5 Feb 2019 18:57:36 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a90f0a
+5 Feb 2019 18:57:36 GMT:  Kind = ERROR
+5 Feb 2019 18:57:36 GMT: Name = C:\Users\USER\Desktop\class ass 2\studentclass.java LineNo = 35 ColNo = 11 Msg = 'Type mismatch: cannot convert from java.lang.String to java.lang.Double'
+5 Feb 2019 18:59:27 GMT: diagnostics = javax.tools.DiagnosticCollector@18feb55
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@237ea
+fileObjects = [C:\Users\USER\Desktop\class ass 2\StudentDriver.java, C:\Users\USER\Desktop\class ass 2\studentclass.java]
+5 Feb 2019 18:59:27 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@ac2dea' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\class ass 2;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+5 Feb 2019 18:59:27 GMT: Compiler call returned
+5 Feb 2019 18:59:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1aedc4e
+5 Feb 2019 18:59:27 GMT:  Kind = ERROR
+5 Feb 2019 18:59:27 GMT: Name = C:\Users\USER\Desktop\class ass 2\studentclass.java LineNo = 50 ColNo = 1 Msg = 'Syntax error on token "}", delete this token'
+5 Feb 2019 18:59:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a8ce0b
+5 Feb 2019 18:59:27 GMT:  Kind = ERROR
+5 Feb 2019 18:59:27 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 8 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 18:59:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d11d29
+5 Feb 2019 18:59:27 GMT:  Kind = ERROR
+5 Feb 2019 18:59:27 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 9 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 18:59:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1aec839
+5 Feb 2019 18:59:27 GMT:  Kind = ERROR
+5 Feb 2019 18:59:27 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 10 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 18:59:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c92a6e
+5 Feb 2019 18:59:27 GMT:  Kind = ERROR
+5 Feb 2019 18:59:27 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 11 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 18:59:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d0632a
+5 Feb 2019 18:59:27 GMT:  Kind = ERROR
+5 Feb 2019 18:59:27 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 12 ColNo = 8 Msg = 'The method nameBoshao(java.lang.String) is undefined for the type Student'
+5 Feb 2019 18:59:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@14a11ac
+5 Feb 2019 18:59:27 GMT:  Kind = ERROR
+5 Feb 2019 18:59:27 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 13 ColNo = 8 Msg = 'The method addressBoshao(java.lang.String) is undefined for the type Student'
+5 Feb 2019 18:59:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c6f53c
+5 Feb 2019 18:59:27 GMT:  Kind = ERROR
+5 Feb 2019 18:59:27 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 14 ColNo = 8 Msg = 'The method idBoshao(java.lang.String) is undefined for the type Student'
+5 Feb 2019 18:59:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@12b32d0
+5 Feb 2019 18:59:27 GMT:  Kind = ERROR
+5 Feb 2019 18:59:27 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 15 ColNo = 8 Msg = 'The method cgpaBoshao(double) is undefined for the type Student'
+5 Feb 2019 18:59:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19ec1ec
+5 Feb 2019 18:59:27 GMT:  Kind = ERROR
+5 Feb 2019 18:59:27 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 16 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 18:59:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@547182
+5 Feb 2019 18:59:27 GMT:  Kind = ERROR
+5 Feb 2019 18:59:27 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 17 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 18:59:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1320ca1
+5 Feb 2019 18:59:27 GMT:  Kind = ERROR
+5 Feb 2019 18:59:27 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 18 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 18:59:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19f05e5
+5 Feb 2019 18:59:27 GMT:  Kind = ERROR
+5 Feb 2019 18:59:27 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 19 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 18:59:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@cd319b
+5 Feb 2019 18:59:27 GMT:  Kind = ERROR
+5 Feb 2019 18:59:27 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 20 ColNo = 19 Msg = 'The constructor Student(java.lang.String, java.lang.String, java.lang.String, double) is undefined'
+5 Feb 2019 18:59:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18e9421
+5 Feb 2019 18:59:27 GMT:  Kind = ERROR
+5 Feb 2019 18:59:27 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 22 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 18:59:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@78c8b5
+5 Feb 2019 18:59:27 GMT:  Kind = ERROR
+5 Feb 2019 18:59:27 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 23 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 18:59:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1114e72
+5 Feb 2019 18:59:27 GMT:  Kind = ERROR
+5 Feb 2019 18:59:27 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 24 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 18:59:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@dbe622
+5 Feb 2019 18:59:27 GMT:  Kind = ERROR
+5 Feb 2019 18:59:27 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 25 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 18:59:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f944c4
+5 Feb 2019 18:59:27 GMT:  Kind = ERROR
+5 Feb 2019 18:59:27 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 28 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 18:59:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1da09ee
+5 Feb 2019 18:59:27 GMT:  Kind = ERROR
+5 Feb 2019 18:59:27 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 29 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 18:59:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@33a679
+5 Feb 2019 18:59:27 GMT:  Kind = ERROR
+5 Feb 2019 18:59:27 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 30 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 18:59:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18cb8eb
+5 Feb 2019 18:59:27 GMT:  Kind = ERROR
+5 Feb 2019 18:59:27 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 31 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 18:59:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1e0bba
+5 Feb 2019 18:59:27 GMT:  Kind = ERROR
+5 Feb 2019 18:59:27 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 32 ColNo = 8 Msg = 'The method standUp() is undefined for the type Student'
+5 Feb 2019 18:59:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c2e66e
+5 Feb 2019 18:59:27 GMT:  Kind = ERROR
+5 Feb 2019 18:59:27 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 33 ColNo = 8 Msg = 'The method standUp() is undefined for the type Student'
+5 Feb 2019 18:59:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4d8001
+5 Feb 2019 18:59:27 GMT:  Kind = ERROR
+5 Feb 2019 18:59:27 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 36 ColNo = 8 Msg = 'The method call(java.lang.String) is undefined for the type Student'
+5 Feb 2019 18:59:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@243283
+5 Feb 2019 18:59:27 GMT:  Kind = ERROR
+5 Feb 2019 18:59:27 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 37 ColNo = 8 Msg = 'The method call(java.lang.String) is undefined for the type Student'
+5 Feb 2019 18:59:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@9db726
+5 Feb 2019 18:59:27 GMT:  Kind = ERROR
+5 Feb 2019 18:59:27 GMT: Name = C:\Users\USER\Desktop\class ass 2\studentclass.java LineNo = 22 ColNo = 12 Msg = 'Type mismatch: cannot convert from java.lang.Double to java.lang.String'
+5 Feb 2019 18:59:27 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@38d24d
+5 Feb 2019 18:59:27 GMT:  Kind = ERROR
+5 Feb 2019 18:59:27 GMT: Name = C:\Users\USER\Desktop\class ass 2\studentclass.java LineNo = 35 ColNo = 11 Msg = 'Type mismatch: cannot convert from java.lang.String to java.lang.Double'
+5 Feb 2019 18:59:56 GMT: diagnostics = javax.tools.DiagnosticCollector@1343222
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@ca6f9e
+fileObjects = [C:\Users\USER\Desktop\class ass 2\StudentDriver.java, C:\Users\USER\Desktop\class ass 2\studentclass.java]
+5 Feb 2019 18:59:56 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1a81573' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\class ass 2;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+5 Feb 2019 18:59:56 GMT: Compiler call returned
+5 Feb 2019 18:59:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a099c6
+5 Feb 2019 18:59:56 GMT:  Kind = ERROR
+5 Feb 2019 18:59:56 GMT: Name = C:\Users\USER\Desktop\class ass 2\studentclass.java LineNo = 50 ColNo = 1 Msg = 'Syntax error on token "}", delete this token'
+5 Feb 2019 18:59:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c3db7b
+5 Feb 2019 18:59:56 GMT:  Kind = ERROR
+5 Feb 2019 18:59:56 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 8 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 18:59:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6dd72c
+5 Feb 2019 18:59:56 GMT:  Kind = ERROR
+5 Feb 2019 18:59:56 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 9 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 18:59:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@ef8791
+5 Feb 2019 18:59:56 GMT:  Kind = ERROR
+5 Feb 2019 18:59:56 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 10 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 18:59:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@615e23
+5 Feb 2019 18:59:56 GMT:  Kind = ERROR
+5 Feb 2019 18:59:56 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 11 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 18:59:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f04797
+5 Feb 2019 18:59:56 GMT:  Kind = ERROR
+5 Feb 2019 18:59:56 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 12 ColNo = 8 Msg = 'The method nameBoshao(java.lang.String) is undefined for the type Student'
+5 Feb 2019 18:59:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1da37f2
+5 Feb 2019 18:59:56 GMT:  Kind = ERROR
+5 Feb 2019 18:59:56 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 13 ColNo = 8 Msg = 'The method addressBoshao(java.lang.String) is undefined for the type Student'
+5 Feb 2019 18:59:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@183e757
+5 Feb 2019 18:59:56 GMT:  Kind = ERROR
+5 Feb 2019 18:59:56 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 14 ColNo = 8 Msg = 'The method idBoshao(java.lang.String) is undefined for the type Student'
+5 Feb 2019 18:59:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10f2c42
+5 Feb 2019 18:59:56 GMT:  Kind = ERROR
+5 Feb 2019 18:59:56 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 15 ColNo = 8 Msg = 'The method cgpaBoshao(double) is undefined for the type Student'
+5 Feb 2019 18:59:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@de01cb
+5 Feb 2019 18:59:56 GMT:  Kind = ERROR
+5 Feb 2019 18:59:56 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 16 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 18:59:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bdec5
+5 Feb 2019 18:59:56 GMT:  Kind = ERROR
+5 Feb 2019 18:59:56 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 17 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 18:59:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@46338c
+5 Feb 2019 18:59:56 GMT:  Kind = ERROR
+5 Feb 2019 18:59:56 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 18 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 18:59:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a5773a
+5 Feb 2019 18:59:56 GMT:  Kind = ERROR
+5 Feb 2019 18:59:56 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 19 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 18:59:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6ffabc
+5 Feb 2019 18:59:56 GMT:  Kind = ERROR
+5 Feb 2019 18:59:56 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 20 ColNo = 19 Msg = 'The constructor Student(java.lang.String, java.lang.String, java.lang.String, double) is undefined'
+5 Feb 2019 18:59:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@96f6c2
+5 Feb 2019 18:59:56 GMT:  Kind = ERROR
+5 Feb 2019 18:59:56 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 22 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 18:59:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d378cf
+5 Feb 2019 18:59:56 GMT:  Kind = ERROR
+5 Feb 2019 18:59:56 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 23 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 18:59:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c4d768
+5 Feb 2019 18:59:56 GMT:  Kind = ERROR
+5 Feb 2019 18:59:56 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 24 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 18:59:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13b6296
+5 Feb 2019 18:59:56 GMT:  Kind = ERROR
+5 Feb 2019 18:59:56 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 25 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 18:59:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@92b955
+5 Feb 2019 18:59:56 GMT:  Kind = ERROR
+5 Feb 2019 18:59:56 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 28 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 18:59:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bda048
+5 Feb 2019 18:59:56 GMT:  Kind = ERROR
+5 Feb 2019 18:59:56 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 29 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 18:59:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@4e4320
+5 Feb 2019 18:59:56 GMT:  Kind = ERROR
+5 Feb 2019 18:59:56 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 30 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 18:59:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@55a46d
+5 Feb 2019 18:59:56 GMT:  Kind = ERROR
+5 Feb 2019 18:59:56 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 31 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 18:59:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1fef1a3
+5 Feb 2019 18:59:56 GMT:  Kind = ERROR
+5 Feb 2019 18:59:56 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 32 ColNo = 8 Msg = 'The method standUp() is undefined for the type Student'
+5 Feb 2019 18:59:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@f0acf4
+5 Feb 2019 18:59:56 GMT:  Kind = ERROR
+5 Feb 2019 18:59:56 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 33 ColNo = 8 Msg = 'The method standUp() is undefined for the type Student'
+5 Feb 2019 18:59:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5ac49
+5 Feb 2019 18:59:56 GMT:  Kind = ERROR
+5 Feb 2019 18:59:56 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 36 ColNo = 8 Msg = 'The method call(java.lang.String) is undefined for the type Student'
+5 Feb 2019 18:59:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@13a1668
+5 Feb 2019 18:59:56 GMT:  Kind = ERROR
+5 Feb 2019 18:59:56 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 37 ColNo = 8 Msg = 'The method call(java.lang.String) is undefined for the type Student'
+5 Feb 2019 18:59:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a98585
+5 Feb 2019 18:59:56 GMT:  Kind = ERROR
+5 Feb 2019 18:59:56 GMT: Name = C:\Users\USER\Desktop\class ass 2\studentclass.java LineNo = 22 ColNo = 12 Msg = 'Type mismatch: cannot convert from java.lang.Double to java.lang.String'
+5 Feb 2019 18:59:56 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1d0bc8
+5 Feb 2019 18:59:56 GMT:  Kind = ERROR
+5 Feb 2019 18:59:56 GMT: Name = C:\Users\USER\Desktop\class ass 2\studentclass.java LineNo = 35 ColNo = 16 Msg = 'Type mismatch: cannot convert from java.lang.String to java.lang.Double'
+5 Feb 2019 19:02:37 GMT: diagnostics = javax.tools.DiagnosticCollector@1c24bfd
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@a7aab0
+fileObjects = [C:\Users\USER\Desktop\class ass 2\StudentDriver.java, C:\Users\USER\Desktop\class ass 2\studentclass.java]
+5 Feb 2019 19:02:37 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1345c0c' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\class ass 2;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+5 Feb 2019 19:02:38 GMT: Compiler call returned
+5 Feb 2019 19:02:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@aeb440
+5 Feb 2019 19:02:38 GMT:  Kind = ERROR
+5 Feb 2019 19:02:38 GMT: Name = C:\Users\USER\Desktop\class ass 2\studentclass.java LineNo = 50 ColNo = 1 Msg = 'Syntax error on token "}", delete this token'
+5 Feb 2019 19:02:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b2de33
+5 Feb 2019 19:02:38 GMT:  Kind = ERROR
+5 Feb 2019 19:02:38 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 8 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 19:02:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a763fc
+5 Feb 2019 19:02:38 GMT:  Kind = ERROR
+5 Feb 2019 19:02:38 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 9 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 19:02:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1767fb0
+5 Feb 2019 19:02:38 GMT:  Kind = ERROR
+5 Feb 2019 19:02:38 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 10 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 19:02:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@73d82a
+5 Feb 2019 19:02:38 GMT:  Kind = ERROR
+5 Feb 2019 19:02:38 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 11 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 19:02:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5ec311
+5 Feb 2019 19:02:38 GMT:  Kind = ERROR
+5 Feb 2019 19:02:38 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 12 ColNo = 8 Msg = 'The method nameBoshao(java.lang.String) is undefined for the type Student'
+5 Feb 2019 19:02:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c1ebe5
+5 Feb 2019 19:02:38 GMT:  Kind = ERROR
+5 Feb 2019 19:02:38 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 13 ColNo = 8 Msg = 'The method addressBoshao(java.lang.String) is undefined for the type Student'
+5 Feb 2019 19:02:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@10288d2
+5 Feb 2019 19:02:38 GMT:  Kind = ERROR
+5 Feb 2019 19:02:38 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 14 ColNo = 8 Msg = 'The method idBoshao(java.lang.String) is undefined for the type Student'
+5 Feb 2019 19:02:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1dcac10
+5 Feb 2019 19:02:38 GMT:  Kind = ERROR
+5 Feb 2019 19:02:38 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 15 ColNo = 8 Msg = 'The method cgpaBoshao(double) is undefined for the type Student'
+5 Feb 2019 19:02:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f0b2b1
+5 Feb 2019 19:02:38 GMT:  Kind = ERROR
+5 Feb 2019 19:02:38 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 16 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 19:02:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1daf129
+5 Feb 2019 19:02:38 GMT:  Kind = ERROR
+5 Feb 2019 19:02:38 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 17 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 19:02:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@79a5d8
+5 Feb 2019 19:02:38 GMT:  Kind = ERROR
+5 Feb 2019 19:02:38 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 18 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 19:02:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@bf212b
+5 Feb 2019 19:02:38 GMT:  Kind = ERROR
+5 Feb 2019 19:02:38 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 19 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 19:02:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@aa6537
+5 Feb 2019 19:02:38 GMT:  Kind = ERROR
+5 Feb 2019 19:02:38 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 20 ColNo = 19 Msg = 'The constructor Student(java.lang.String, java.lang.String, java.lang.String, double) is undefined'
+5 Feb 2019 19:02:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@6f9a32
+5 Feb 2019 19:02:38 GMT:  Kind = ERROR
+5 Feb 2019 19:02:38 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 22 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 19:02:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@153afc2
+5 Feb 2019 19:02:38 GMT:  Kind = ERROR
+5 Feb 2019 19:02:38 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 23 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 19:02:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@c06aba
+5 Feb 2019 19:02:38 GMT:  Kind = ERROR
+5 Feb 2019 19:02:38 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 24 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 19:02:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1bc3ac8
+5 Feb 2019 19:02:38 GMT:  Kind = ERROR
+5 Feb 2019 19:02:38 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 25 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 19:02:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1449f87
+5 Feb 2019 19:02:38 GMT:  Kind = ERROR
+5 Feb 2019 19:02:38 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 28 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 19:02:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a51452
+5 Feb 2019 19:02:38 GMT:  Kind = ERROR
+5 Feb 2019 19:02:38 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 29 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 19:02:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@473b66
+5 Feb 2019 19:02:38 GMT:  Kind = ERROR
+5 Feb 2019 19:02:38 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 30 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 19:02:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@47251c
+5 Feb 2019 19:02:38 GMT:  Kind = ERROR
+5 Feb 2019 19:02:38 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 31 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 19:02:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@11639b4
+5 Feb 2019 19:02:38 GMT:  Kind = ERROR
+5 Feb 2019 19:02:38 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 32 ColNo = 8 Msg = 'The method standUp() is undefined for the type Student'
+5 Feb 2019 19:02:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@38a4c0
+5 Feb 2019 19:02:38 GMT:  Kind = ERROR
+5 Feb 2019 19:02:38 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 33 ColNo = 8 Msg = 'The method standUp() is undefined for the type Student'
+5 Feb 2019 19:02:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1eb282a
+5 Feb 2019 19:02:38 GMT:  Kind = ERROR
+5 Feb 2019 19:02:38 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 36 ColNo = 8 Msg = 'The method call(java.lang.String) is undefined for the type Student'
+5 Feb 2019 19:02:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@a1908e
+5 Feb 2019 19:02:38 GMT:  Kind = ERROR
+5 Feb 2019 19:02:38 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 37 ColNo = 8 Msg = 'The method call(java.lang.String) is undefined for the type Student'
+5 Feb 2019 19:02:46 GMT: diagnostics = javax.tools.DiagnosticCollector@1f6ec80
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@74e10c
+fileObjects = [C:\Users\USER\Desktop\class ass 2\StudentDriver.java, C:\Users\USER\Desktop\class ass 2\studentclass.java]
+5 Feb 2019 19:02:46 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@183b000' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\class ass 2;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+5 Feb 2019 19:02:46 GMT: Compiler call returned
+5 Feb 2019 19:02:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1a5e1d1
+5 Feb 2019 19:02:46 GMT:  Kind = ERROR
+5 Feb 2019 19:02:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 8 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 19:02:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@199c520
+5 Feb 2019 19:02:46 GMT:  Kind = ERROR
+5 Feb 2019 19:02:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 9 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 19:02:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7f849d
+5 Feb 2019 19:02:46 GMT:  Kind = ERROR
+5 Feb 2019 19:02:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 10 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 19:02:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1f1cba1
+5 Feb 2019 19:02:46 GMT:  Kind = ERROR
+5 Feb 2019 19:02:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 11 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 19:02:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1020e27
+5 Feb 2019 19:02:46 GMT:  Kind = ERROR
+5 Feb 2019 19:02:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 12 ColNo = 8 Msg = 'The method nameBoshao(java.lang.String) is undefined for the type Student'
+5 Feb 2019 19:02:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@cf77e2
+5 Feb 2019 19:02:46 GMT:  Kind = ERROR
+5 Feb 2019 19:02:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 13 ColNo = 8 Msg = 'The method addressBoshao(java.lang.String) is undefined for the type Student'
+5 Feb 2019 19:02:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@92438a
+5 Feb 2019 19:02:46 GMT:  Kind = ERROR
+5 Feb 2019 19:02:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 14 ColNo = 8 Msg = 'The method idBoshao(java.lang.String) is undefined for the type Student'
+5 Feb 2019 19:02:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1892fba
+5 Feb 2019 19:02:46 GMT:  Kind = ERROR
+5 Feb 2019 19:02:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 15 ColNo = 8 Msg = 'The method cgpaBoshao(double) is undefined for the type Student'
+5 Feb 2019 19:02:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8b7f1a
+5 Feb 2019 19:02:46 GMT:  Kind = ERROR
+5 Feb 2019 19:02:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 16 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 19:02:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19c730e
+5 Feb 2019 19:02:46 GMT:  Kind = ERROR
+5 Feb 2019 19:02:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 17 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 19:02:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@19af9e4
+5 Feb 2019 19:02:46 GMT:  Kind = ERROR
+5 Feb 2019 19:02:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 18 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 19:02:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18af4d2
+5 Feb 2019 19:02:46 GMT:  Kind = ERROR
+5 Feb 2019 19:02:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 19 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 19:02:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@7e3296
+5 Feb 2019 19:02:46 GMT:  Kind = ERROR
+5 Feb 2019 19:02:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 20 ColNo = 19 Msg = 'The constructor Student(java.lang.String, java.lang.String, java.lang.String, double) is undefined'
+5 Feb 2019 19:02:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@223f94
+5 Feb 2019 19:02:46 GMT:  Kind = ERROR
+5 Feb 2019 19:02:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 22 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 19:02:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@93b2ad
+5 Feb 2019 19:02:46 GMT:  Kind = ERROR
+5 Feb 2019 19:02:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 23 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 19:02:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@3fe789
+5 Feb 2019 19:02:46 GMT:  Kind = ERROR
+5 Feb 2019 19:02:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 24 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 19:02:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@174821a
+5 Feb 2019 19:02:46 GMT:  Kind = ERROR
+5 Feb 2019 19:02:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 25 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 19:02:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@b3dabf
+5 Feb 2019 19:02:46 GMT:  Kind = ERROR
+5 Feb 2019 19:02:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 28 ColNo = 23 Msg = 'The method nameDao() is undefined for the type Student'
+5 Feb 2019 19:02:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1c41c5e
+5 Feb 2019 19:02:46 GMT:  Kind = ERROR
+5 Feb 2019 19:02:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 29 ColNo = 23 Msg = 'The method boloToAmiKe() is undefined for the type Student'
+5 Feb 2019 19:02:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@54a4c0
+5 Feb 2019 19:02:46 GMT:  Kind = ERROR
+5 Feb 2019 19:02:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 30 ColNo = 23 Msg = 'The method addressDao() is undefined for the type Student'
+5 Feb 2019 19:02:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1599442
+5 Feb 2019 19:02:46 GMT:  Kind = ERROR
+5 Feb 2019 19:02:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 31 ColNo = 23 Msg = 'The method cgpaDao() is undefined for the type Student'
+5 Feb 2019 19:02:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@175db34
+5 Feb 2019 19:02:46 GMT:  Kind = ERROR
+5 Feb 2019 19:02:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 32 ColNo = 8 Msg = 'The method standUp() is undefined for the type Student'
+5 Feb 2019 19:02:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d61328
+5 Feb 2019 19:02:46 GMT:  Kind = ERROR
+5 Feb 2019 19:02:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 33 ColNo = 8 Msg = 'The method standUp() is undefined for the type Student'
+5 Feb 2019 19:02:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@137d756
+5 Feb 2019 19:02:46 GMT:  Kind = ERROR
+5 Feb 2019 19:02:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 36 ColNo = 8 Msg = 'The method call(java.lang.String) is undefined for the type Student'
+5 Feb 2019 19:02:46 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@5fa8f6
+5 Feb 2019 19:02:46 GMT:  Kind = ERROR
+5 Feb 2019 19:02:46 GMT: Name = C:\Users\USER\Desktop\class ass 2\StudentDriver.java LineNo = 37 ColNo = 8 Msg = 'The method call(java.lang.String) is undefined for the type Student'
+12 Feb 2019 18:19:51 GMT: Log 'EclipseCompiler.txt' opened: 12 Feb 2019 18:19:51 GMT with name C:\Users\USER\Desktop\Lab 4 only code\EclipseCompiler.txt
+12 Feb 2019 18:19:51 GMT: Log 'EclipseCompiler.txt' opened: 12 Feb 2019 18:19:51 GMT with name C:\Users\USER\Desktop\Lab 4 only code\EclipseCompiler.txt
+12 Feb 2019 18:19:51 GMT: Log 'EclipseCompiler.txt' opened: 12 Feb 2019 18:19:51 GMT with name C:\Users\USER\Desktop\Lab 4 only code\EclipseCompiler.txt
+12 Feb 2019 18:20:12 GMT: Log 'EclipseCompiler.txt' opened: 12 Feb 2019 18:20:12 GMT with name C:\Users\USER\Desktop\Lab 4 only code\EclipseCompiler.txt
+12 Feb 2019 18:51:42 GMT: diagnostics = javax.tools.DiagnosticCollector@18834a0
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@132414f
+fileObjects = [C:\Users\USER\Desktop\Lab 4 only code\StudentA.java, C:\Users\USER\Desktop\New Folder (4)\StudentATester.java]
+12 Feb 2019 18:51:42 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@18a9f30' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Lab 4 only code;C:\Users\USER\Desktop\New Folder (4);C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+12 Feb 2019 18:51:43 GMT: Compiler call returned
+12 Feb 2019 18:51:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@49222e
+12 Feb 2019 18:51:43 GMT:  Kind = ERROR
+12 Feb 2019 18:51:43 GMT: Name = C:\Users\USER\Desktop\Lab 4 only code\StudentA.java LineNo = 6 ColNo = 9 Msg = 'Syntax error, insert ";" to complete Statement'
+12 Feb 2019 18:51:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@8af26f
+12 Feb 2019 18:51:43 GMT:  Kind = ERROR
+12 Feb 2019 18:51:43 GMT: Name = C:\Users\USER\Desktop\Lab 4 only code\StudentA.java LineNo = 9 ColNo = 11 Msg = 'Syntax error, insert ":: IdentifierOrNew" to complete Expression'
+12 Feb 2019 18:51:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1abf342
+12 Feb 2019 18:51:43 GMT:  Kind = ERROR
+12 Feb 2019 18:51:43 GMT: Name = C:\Users\USER\Desktop\Lab 4 only code\StudentA.java LineNo = 9 ColNo = 11 Msg = 'Syntax error, insert ";" to complete BlockStatements'
+12 Feb 2019 18:51:59 GMT: diagnostics = javax.tools.DiagnosticCollector@10ce2a4
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@16ce0e1
+fileObjects = [C:\Users\USER\Desktop\New Folder (4)\StudentATester.java, C:\Users\USER\Desktop\Lab 4 only code\StudentA.java]
+12 Feb 2019 18:51:59 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@cbe3b2' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\New Folder (4);C:\Users\USER\Desktop\Lab 4 only code;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+12 Feb 2019 18:51:59 GMT: Compiler call returned
+12 Feb 2019 18:51:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@d22d4
+12 Feb 2019 18:51:59 GMT:  Kind = ERROR
+12 Feb 2019 18:51:59 GMT: Name = C:\Users\USER\Desktop\Lab 4 only code\StudentA.java LineNo = 9 ColNo = 11 Msg = 'Syntax error, insert ":: IdentifierOrNew" to complete Expression'
+12 Feb 2019 18:51:59 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@753389
+12 Feb 2019 18:51:59 GMT:  Kind = ERROR
+12 Feb 2019 18:51:59 GMT: Name = C:\Users\USER\Desktop\Lab 4 only code\StudentA.java LineNo = 9 ColNo = 11 Msg = 'Syntax error, insert ";" to complete BlockStatements'
+12 Feb 2019 18:52:05 GMT: diagnostics = javax.tools.DiagnosticCollector@19d4460
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@585788
+fileObjects = [C:\Users\USER\Desktop\New Folder (4)\StudentATester.java, C:\Users\USER\Desktop\Lab 4 only code\StudentA.java]
+12 Feb 2019 18:52:05 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@18868e4' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\New Folder (4);C:\Users\USER\Desktop\Lab 4 only code;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+12 Feb 2019 18:52:05 GMT: Compiler call returned
+21 Feb 2019 7:12:24 GMT: Log 'EclipseCompiler.txt' opened: 21 Feb 2019 7:12:24 GMT with name C:\Users\USER\Desktop\Lab 4 only code\EclipseCompiler.txt
+14 Mar 2019 17:43:02 GMT: Log 'EclipseCompiler.txt' opened: 14 Mar 2019 17:43:02 GMT with name C:\Users\USER\Desktop\Lab 4 only code\EclipseCompiler.txt
+14 Mar 2019 17:43:44 GMT: Log 'EclipseCompiler.txt' opened: 14 Mar 2019 17:43:44 GMT with name C:\Users\USER\Desktop\Lab 4 only code\EclipseCompiler.txt
+14 Mar 2019 17:43:56 GMT: Log 'EclipseCompiler.txt' opened: 14 Mar 2019 17:43:56 GMT with name C:\Users\USER\Desktop\Lab 4 only code\EclipseCompiler.txt
+14 Mar 2019 17:44:37 GMT: diagnostics = javax.tools.DiagnosticCollector@15ffea7
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@fd3a97
+fileObjects = [C:\Users\USER\Desktop\Lab 4 only code\author.java, C:\Users\USER\Desktop\Lab 4 only code\Bankaccount.java, C:\Users\USER\Desktop\Lab 4 only code\book.java, C:\Users\USER\Desktop\Lab 4 only code\main.java, C:\Users\USER\Desktop\Lab 4 only code\student.java]
+14 Mar 2019 17:44:37 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@1adef30' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Lab 4 only code;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+14 Mar 2019 17:44:38 GMT: Compiler call returned
+14 Mar 2019 17:44:38 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@18016f1
+14 Mar 2019 17:44:38 GMT:  Kind = WARNING
+14 Mar 2019 17:44:38 GMT: Name = C:\Users\USER\Desktop\Lab 4 only code\main.java LineNo = 3 ColNo = 22 Msg = 'This method has a constructor name'
+14 Mar 2019 17:44:43 GMT: diagnostics = javax.tools.DiagnosticCollector@39f059
+fileManager = org.eclipse.jdt.internal.compiler.tool.EclipseFileManager@11cb8cf
+fileObjects = [C:\Users\USER\Desktop\Lab 4 only code\author.java, C:\Users\USER\Desktop\Lab 4 only code\Bankaccount.java, C:\Users\USER\Desktop\Lab 4 only code\book.java, C:\Users\USER\Desktop\Lab 4 only code\main.java, C:\Users\USER\Desktop\Lab 4 only code\student.java]
+14 Mar 2019 17:44:43 GMT: Calling 'org.eclipse.jdt.internal.compiler.tool.EclipseCompiler@18e2e2f' with options [-Xlint:deprecation, -Xlint:unchecked, -g, -classpath, C:\Users\USER\Desktop\Lab 4 only code;C:\Users\USER\Desktop\drjava-beta-20160913-225446.exe]
+14 Mar 2019 17:44:43 GMT: Compiler call returned
+14 Mar 2019 17:44:43 GMT: Processing diagnostic org.eclipse.jdt.internal.compiler.tool.EclipseCompilerImpl$3$2@1657fed
+14 Mar 2019 17:44:43 GMT:  Kind = WARNING
+14 Mar 2019 17:44:43 GMT: Name = C:\Users\USER\Desktop\Lab 4 only code\main.java LineNo = 3 ColNo = 22 Msg = 'This method has a constructor name'
